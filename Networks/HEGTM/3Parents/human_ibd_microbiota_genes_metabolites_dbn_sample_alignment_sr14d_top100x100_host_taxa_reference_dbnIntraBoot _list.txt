@@ -1,0 +1,1043 @@
+source,target,weigh,bootscore
+m__hmdb00812,m__hmdb00812,0.9999785729,1
+m__hmdb00197,m__hmdb00197,0.9999607751,1
+m__hmdb01169,m__hmdb01169,0.9998853394,1
+m__hmdb00063,m__hmdb00063,0.9997582741,1
+m__hmdb03357,m__hmdb03357,0.9992804542,1
+m__hmdb00019,m__hmdb00019,0.9989954604,1
+mitsuokella_unclassified,mitsuokella_unclassified,0.9988264242,1
+clostridium_citroniae,clostridium_citroniae,0.9988037751,1
+m__hmdb00094,m__hmdb00094,0.9982643431,1
+m__hmdb00699,m__hmdb00699,0.9977334895,1
+m__hmdb00764,m__hmdb00764,0.9964679321,1
+m__hmdb00452,m__hmdb00452,0.996399943,1
+m__hmdb03464,m__hmdb03464,0.9959424279,1
+m__hmdb00715,m__hmdb00715,0.9953947536,1
+dorea_formicigenerans,dorea_formicigenerans,0.9953652229,1
+clostridiaceae_bacterium_jc118,clostridiaceae_bacterium_jc118,0.9950461266,1
+m__hmdb01547,m__hmdb01547,0.9949836361,1
+ruminococcaceae_bacterium_d16,ruminococcaceae_bacterium_d16,0.9947060312,1
+m__hmdb00511,m__hmdb00511,0.9946116243,1
+m__hmdb00118,m__hmdb00118,0.9945746429,1
+clostridium_asparagiforme,clostridium_asparagiforme,0.9939256622,1
+m__hmdb00873,m__hmdb00873,0.9933308423,1
+m__hmdb00448,m__hmdb00448,0.99292001,1
+m__hmdb00156,m__hmdb00156,0.991984896,1
+m__hmdb00244,m__hmdb00244,0.9919662272,1
+m__hmdb00098,m__hmdb00098,0.9919413695,1
+m__hmdb00195,m__hmdb00195,0.991071287,1
+m__hmdb00020,m__hmdb00020,0.9888608988,1
+;  q06996: l_sendf    ;  o55528: l_sendo,;  q06996: l_sendf    ;  o55528: l_sendo,0.9886990401,1
+erysipelotrichaceae_bacterium_6_1_45,erysipelotrichaceae_bacterium_6_1_45,0.9862068893,1
+m__hmdb00139,m__hmdb00139,0.9852572881,1
+m__hmdb00039,m__hmdb00039,0.9846557511,1
+m__hmdb00209,m__hmdb00209,0.983819848,1
+pseudomonas_unclassified,pseudomonas_unclassified,0.9820221013,1
+clostridiales_bacterium_1_7_47faa,clostridiales_bacterium_1_7_47faa,0.9819297651,1
+pseudomonas_unclassified,streptococcus_parasanguinis,0.9818383212,1
+holdemania_filiformis,holdemania_filiformis,0.980185071,1
+m__hmdb01895,m__hmdb01895,0.9789887621,1
+bilophila_wadsworthia,bilophila_wadsworthia,0.9775056473,1
+m__hmdb03357,ruminococcus_lactaris,0.9702381141,1
+m__hmdb00043,m__hmdb00043,0.9699309616,1
+m__hmdb00725,m__hmdb00725,0.9696413119,1
+clostridium_leptum,clostridium_leptum,0.9684916833,1
+m__hmdb00630,m__hmdb00630,0.9642286141,1
+m__hmdb00296,m__hmdb00296,0.9613143584,1
+anaerotruncus_colihominis,anaerotruncus_colihominis,0.9608638981,1
+ruminococcus_bromii,ruminococcus_bromii,0.9585046076,1
+m__hmdb00956,m__hmdb00956,0.9517592541,1
+pseudomonas_unclassified,fructose-bisphosphate aldolase,-0.9513768328,1
+parasutterella_excrementihominis,parasutterella_excrementihominis,0.9496473518,1
+mitsuokella_unclassified,m__hmdb04610,0.997853518,0.95
+m__hmdb00870,m__hmdb00870,0.9434492747,1
+anaerostipes_hadrus,methionyl aminopeptidase,0.9412872917,1
+flavonifractor_plautii,flavonifractor_plautii,0.9356693121,1
+m__hmdb00482,m__hmdb00482,0.9330671437,1
+m__hmdb00194,m__hmdb00194,0.9307383861,1
+m__hmdb00262,m__hmdb00262,0.9214469625,1
+lachnospiraceae_bacterium_2_1_58faa,lachnospiraceae_bacterium_2_1_58faa,0.9202572899,1
+barnesiella_intestinihominis,barnesiella_intestinihominis,0.9137174488,1
+dialister_invisus,dialister_invisus,0.913092482,1
+aspartate ammonia-lyase,aspartate ammonia-lyase,0.9117882373,1
+m__hmdb00806,m__hmdb00806,0.9090670895,1
+m__hmdb00619,m__hmdb00619,0.9088048222,1
+m__hmdb00097,m__hmdb00097,0.9079551114,1
+m__hmdb11718,m__hmdb11718,0.907213221,1
+m__hmdb01232,m__hmdb01232,0.8981764785,1
+ubiquinol oxidase electrogenic: non h+-transporting,ubiquinol oxidase electrogenic: non h+-transporting,0.8945147274,1
+holdemania_unclassified,holdemania_unclassified,0.8908941963,1
+m__hmdb01547,bacteroides_massiliensis,0.9674609956,0.92
+erysipelotrichaceae_bacterium_6_1_45,enoyl-coa hydratase,0.8891688892,1
+bacteroides_finegoldii,bacteroides_finegoldii,0.8851004919,1
+dorea_unclassified,dorea_unclassified,0.8850757163,1
+collinsella_aerofaciens,collinsella_aerofaciens,0.8812546217,1
+m__hmdb00036,m__hmdb00036,0.8800505377,1
+holdemania_unclassified,m__hmdb00365,0.897984761,0.98
+lachnospiraceae_bacterium_2_1_58faa,16s rrna cytosine1402-n4-methyltransferase,0.8740959406,1
+lachnospiraceae_bacterium_8_1_57faa,lachnospiraceae_bacterium_8_1_57faa,0.8737835689,1
+m__hmdb00174,m__hmdb00174,0.872701526,1
+erysipelotrichaceae_bacterium_6_1_45,eubacterium_siraeum,0.8697144135,1
+m__hmdb04193,m__hmdb04193,0.8696076752,1
+ruminococcaceae_bacterium_d16,m__hmdb01991,0.8664321233,1
+pseudomonas_unclassified,triose-phosphate isomerase,-0.8639282906,1
+bacteroides_xylanisolvens,bacteroides_xylanisolvens,0.8582638171,1
+eubacterium_ventriosum,eubacterium_ventriosum,0.8494897598,1
+m__hmdb00222,m__hmdb00222,0.8482161011,1
+m__hmdb00247,m__hmdb00247,0.8463348066,1
+pseudomonas_unclassified,nadh dehydrogenase quinone,0.8541478584,0.99
+roseburia_hominis,roseburia_hominis,0.8414871175,1
+clostridium_bartlettii,veillonella_parvula,0.9246929741,0.91
+m__hmdb00510,m__hmdb00510,0.837329194,1
+bacteroides_cellulosilyticus,bacteroides_cellulosilyticus,0.8301137407,1
+lachnospiraceae_bacterium_5_1_63faa,lachnospiraceae_bacterium_5_1_63faa,0.8217199002,1
+bilophila_wadsworthia,uridine kinase,0.9017693465,0.91
+m__hmdb00637,m__hmdb00637,0.8113985845,1
+m__hmdb00138,m__hmdb00138,0.8109027379,1
+m__hmdb00067,m__hmdb00067,0.8108103225,1
+pseudomonas_unclassified,l-serine ammonia-lyase,-0.8026700704,1
+coprococcus_catus,coprococcus_catus,0.801835334,1
+glycerate 3-kinase,glycerate 3-kinase,0.7964283287,1
+m__hmdb03357,anaerostipes_hadrus,0.8278206279,0.96
+coprococcus_comes,coprococcus_comes,0.7929398149,1
+alistipes_onderdonkii,alistipes_onderdonkii,0.7862897671,1
+dihydrolipoyl dehydrogenase,dihydrolipoyl dehydrogenase,0.7855180609,1
+pseudomonas_unclassified,3-hydroxyacyl-acyl-carrier-protein dehydratase,-0.784459796,1
+beta-lactamase,beta-lactamase,0.7756471397,1
+m__hmdb00014,m__hmdb00014,0.7744096497,1
+pseudomonas_unclassified,adenosylmethionine-8-amino-7-oxononanoate transaminase,-0.7659967683,1
+erysipelotrichaceae_bacterium_6_1_45,roseburia_inulinivorans,-0.7782113436,0.98
+lachnospiraceae_bacterium_3_1_57faa_ct1,h+-transporting two-sector atpase,0.7870119057,0.96
+pseudomonas_unclassified,cytochrome-c oxidase,0.7618533869,0.99
+clostridium_symbiosum,dna helicase,-0.7541455202,1
+streptococcus_salivarius,streptococcus_salivarius,0.7499520175,1
+coprobacillus_unclassified,ruminococcus_gnavus,0.7467889529,1
+pyridoxal 5-phosphate synthase glutamine hydrolyzing,pyridoxal 5-phosphate synthase glutamine hydrolyzing,0.7421128806,1
+m__hmdb00174,parabacteroides_unclassified,0.8218168289,0.9
+collinsella_aerofaciens,serine o-acetyltransferase,0.737328236,1
+holdemania_filiformis,m__hmdb00030,-0.8248559273,0.89
+clostridiaceae_bacterium_jc118,4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,0.8530040057,0.86
+dihydroorotate dehydrogenase quinone,dihydroorotate dehydrogenase quinone,0.7318459627,1
+m__hmdb00626,m__hmdb00626,0.731490481,1
+shikimate kinase,shikimate kinase,0.7298585609,1
+lachnospiraceae_bacterium_3_1_57faa_ct1,ruminococcus_torques,0.7643041977,0.95
+parabacteroides_distasonis,parabacteroides_distasonis,0.721761587,1
+propionibacterium_acnes,propionibacterium_acnes,0.7160423093,1
+lachnospiraceae_bacterium_3_1_57faa_ct1,phosphopyruvate hydratase,0.7335443484,0.97
+anaerotruncus_unclassified,m__hmdb01149,-0.7405761935,0.96
+ribulose-phosphate 3-epimerase,ribulose-phosphate 3-epimerase,0.706843635,1
+mitsuokella_unclassified,m__hmdb00251,0.7504565696,0.94
+c2likevirus_unclassified,c2likevirus_unclassified,0.7044946471,1
+glutamate dehydrogenase nadp+,glutamate dehydrogenase nadp+,0.704281456,1
+m__hmdb10169,m__hmdb10169,0.6995803172,1
+veillonella_dispar,veillonella_dispar,0.6993634763,1
+bacteroides_thetaiotaomicron,bacteroides_thetaiotaomicron,0.6988416636,1
+clostridium_symbiosum,m__hmdb00239,0.6908801982,1
+clostridium_bolteae,clostridium_bolteae,0.6876879038,1
+anaerotruncus_unclassified,anaerotruncus_unclassified,0.6846707614,1
+eggerthella_unclassified,eggerthella_unclassified,0.6774243047,1
+ruminococcus_obeum,ruminococcus_obeum,0.6770678484,1
+clostridium_asparagiforme,glycerol kinase,-0.6879226135,0.98
+bacteroides_eggerthii,bacteroides_eggerthii,0.668855755,1
+fe3+-transporting atpase,roseburia_unclassified,0.6662411725,1
+pyridoxal 5-phosphate synthase,pyridoxal 5-phosphate synthase,0.6646585703,1
+eubacterium_eligens,eubacterium_eligens,0.654234711,1
+dorea_longicatena,dorea_longicatena,0.6525481677,1
+streptococcus_parasanguinis,klebsiella_pneumoniae,0.6430899458,1
+glyceraldehyde-3-phosphate dehydrogenase phosphorylating,glyceraldehyde-3-phosphate dehydrogenase phosphorylating,0.6345378267,1
+m__hmdb00873,escherichia_coli,0.8023738681,0.79
+holdemania_filiformis,m__hmdb00089,0.7995547087,0.79
+protein-npi-phosphohistidine-sugar phosphotransferase,protein-npi-phosphohistidine-sugar phosphotransferase,0.631036485,1
+5-formyltetrahydrofolate cyclo-ligase,5-formyltetrahydrofolate cyclo-ligase,0.6288109895,1
+burkholderiales_bacterium_1_1_47,burkholderiales_bacterium_1_1_47,0.6278449403,1
+alistipes_finegoldii,alistipes_finegoldii,0.6254637433,1
+streptococcus_thermophilus,dna-directed rna polymerase,0.6843159538,0.89
+pyridoxine 5-phosphate synthase,pyridoxine 5-phosphate synthase,0.5990529863,1
+bilophila_wadsworthia,endopeptidase clp,0.6163577871,0.97
+parasutterella_excrementihominis,fe3+-transporting atpase,0.5965397287,1
+coprobacillus_unclassified,glucose-1-phosphate adenylyltransferase,0.6200111266,0.96
+lachnospiraceae_bacterium_2_1_58faa,m__hmdb00056,0.6014312779,0.98
+coprobacillus_unclassified,coprobacillus_unclassified,0.5892728582,1
+preq1 synthase,preq1 synthase,0.5879894847,1
+alistipes_finegoldii,bacteroides_uniformis,0.5856325551,1
+pyruvate carboxylase,pyruvate carboxylase,0.5797976219,1
+bacteroides_faecis,bacteroides_faecis,0.5783748894,1
+orotidine-5-phosphate decarboxylase,orotidine-5-phosphate decarboxylase,0.5780905599,1
+clostridium_symbiosum,phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,0.5746550962,1
+clostridium_leptum,beta-ketoacyl-acyl-carrier-protein synthase ii,-0.5804923258,0.98
+lachnospiraceae_bacterium_3_1_46faa,lachnospiraceae_bacterium_3_1_46faa,0.5671851029,1
+thymidylate synthase,thymidylate synthase,0.5662886524,1
+lachnospiraceae_bacterium_2_1_58faa,bacteroides_caccae,0.7447242184,0.76
+ribulose-bisphosphate carboxylase,ribulose-bisphosphate carboxylase,0.5640294201,1
+2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase,2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase,0.5619746886,1
+erysipelotrichaceae_bacterium_6_1_45,roseburia_intestinalis,0.6959870232,0.8
+mitsuokella_unclassified,rna helicase,0.9157467012,0.6
+clostridium_hathewayi,clostridium_hathewayi,0.5358415938,1
+veillonella_atypica,veillonella_atypica,0.5336456886,1
+m__hmdb00562,m__hmdb00562,0.5331278476,1
+dephospho-coa kinase,dephospho-coa kinase,0.5324932853,1
+eubacterium_ramulus,3-hydroxyacyl-coa dehydrogenase,0.524076833,1
+bacterial non-heme ferritin,bacterial non-heme ferritin,0.5227402461,1
+hydroxylamine reductase,bacteroides_fragilis,0.5217893013,1
+lachnospiraceae_bacterium_3_1_57faa_ct1,lachnospiraceae_bacterium_3_1_57faa_ct1,0.5194727673,1
+streptococcus_salivarius,bifidobacterium_longum,-0.5156353876,1
+sutterella_wadsworthensis,sutterella_wadsworthensis,0.5097891741,1
+methylaspartate mutase,methylaspartate mutase,0.5092589332,1
+lachnospiraceae_bacterium_3_1_57faa_ct1,peptidylprolyl isomerase,0.5488155783,0.92
+lachnospiraceae_bacterium_2_1_58faa,parabacteroides_merdae,0.5866600778,0.86
+alistipes_shahii,alistipes_shahii,0.5035244099,1
+eubacterium_ramulus,acetyl-coa c-acetyltransferase,0.564885078,0.89
+erysipelotrichaceae_bacterium_6_1_45,nadh,0.4989576281,1
+clostridium_bartlettii,clostridium_bartlettii,0.4944221104,1
+clostridium_clostridioforme,clostridium_clostridioforme,0.4890777679,1
+bacteroides_ovatus,bacteroides_ovatus,0.4850200914,1
+eggerthella_unclassified,eubacterium_ramulus,0.4847041818,1
+bilophila_unclassified,bilophila_unclassified,0.4826528875,1
+streptococcus_thermophilus,streptococcus_thermophilus,0.4826000634,1
+holdemania_unclassified,m__hmdb02123,0.4872206466,0.99
+veillonella_dispar,veillonella_unclassified,0.4820740751,1
+lachnospiraceae_bacterium_8_1_57faa,peptostreptococcaceae_noname_unclassified,0.7651627573,0.62
+histidine kinase,histidine kinase,0.4597659111,1
+lachnospiraceae_bacterium_5_1_63faa,eubacterium_hallii,0.463019384,0.98
+eggerthella_unclassified,eubacterium_ramulus,-0.4524600041,1
+phosphoglycerate kinase,phosphoglycerate kinase,0.4522503398,1
+eubacterium_ramulus,3-hydroxybutyryl-coa dehydrogenase,0.4607093987,0.98
+phosphatidate cytidylyltransferase,phosphatidate cytidylyltransferase,0.4493367688,1
+m__hmdb02123,m__hmdb02123,0.4479559297,1
+anaerotruncus_unclassified,ruminococcus_callidus,0.5125388305,0.87
+ruminococcus_obeum,bifidobacterium_adolescentis,0.4814003304,0.91
+s-ribosylhomocysteine lyase,s-ribosylhomocysteine lyase,0.437419742,1
+ruminococcaceae_bacterium_d16,phosphogluconate dehydrogenase nadp+-dependent decarboxylating,0.4334228047,1
+3-hydroxyacyl-coa dehydrogenase,3-hydroxyacyl-coa dehydrogenase,0.4295489055,1
+anaerostipes_hadrus,m__hmdb02329,0.4504643695,0.95
+streptococcus_salivarius,bacteroides_ovatus,0.4774354155,0.89
+clostridiaceae_bacterium_jc118,aldose 1-epimerase,0.7426945792,0.56
+3-hydroxybutyryl-coa dehydrogenase,3-hydroxybutyryl-coa dehydrogenase,0.4109568422,1
+streptococcus_parasanguinis,ribulose-bisphosphate carboxylase,-0.410514387,1
+bacteroides_stercoris,bacteroides_stercoris,0.4088715082,1
+m__hmdb00128,m__hmdb00128,0.4086292816,1
+beta-ketoacyl-acyl-carrier-protein synthase ii,beta-ketoacyl-acyl-carrier-protein synthase ii,0.4084024836,1
+veillonella_atypica,3-methyl-2-oxobutanoate hydroxymethyltransferase,-0.4082294532,1
+bifidobacterium_longum,bifidobacterium_longum,0.407447066,1
+propionibacterium_acnes,preq1 synthase,0.4005798888,1
+bilophila_unclassified,m__hmdb01257,0.684623902,0.58
+lachnospiraceae_bacterium_5_1_63faa,eubacterium_hallii,-0.4041834077,0.98
+lachnospiraceae_bacterium_3_1_57faa_ct1,phosphogluconate dehydrogenase nadp+-dependent decarboxylating,0.4271758094,0.92
+m__hmdb00269,m__hmdb00269,0.3889286818,1
+veillonella_dispar,dephospho-coa kinase,-0.3835531659,1
+veillonella_atypica,veillonella_unclassified,0.4116288341,0.9
+m__hmdb00725,streptococcus_thermophilus,-0.513605035,0.72
+hydroxylamine reductase,hydroxylamine reductase,0.3655113749,1
+l-lactate dehydrogenase,l-lactate dehydrogenase,0.3636082693,1
+peptostreptococcaceae_noname_unclassified,sutterella_wadsworthensis,0.3632338881,1
+lachnospiraceae_bacterium_7_1_58faa,lachnospiraceae_bacterium_7_1_58faa,0.3627857701,1
+clostridium_asparagiforme,glutamate decarboxylase,0.4231804114,0.84
+clostridiaceae_bacterium_jc118,glutamate decarboxylase,-0.4726741037,0.75
+lachnospiraceae_bacterium_3_1_57faa_ct1,m__hmdb02329,-0.3478639534,1
+phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,0.3450441869,1
+acetyl-coa c-acetyltransferase,acetyl-coa c-acetyltransferase,0.3408741,1
+endopeptidase clp,endopeptidase clp,0.3381317398,1
+anaerotruncus_unclassified,m__hmdb00289,-0.7845735999,0.43
+veillonella_dispar,pyruvate carboxylase,-0.3324300857,1
+3-methyl-2-oxobutanoate hydroxymethyltransferase,3-methyl-2-oxobutanoate hydroxymethyltransferase,0.3292009053,1
+anaerotruncus_unclassified,m__hmdb00128,-0.5705355611,0.57
+eggerthella_unclassified,eubacterium_rectale,0.5228729965,0.62
+clostridium_asparagiforme,phosphoenolpyruvate carboxykinase atp,-0.7671695481,0.42
+veillonella_dispar,haemophilus_parainfluenzae,0.3207527426,1
+mitsuokella_unclassified,anaerotruncus_unclassified,0.3152659529,1
+peroxiredoxin,peroxiredoxin,0.314887732,1
+anaerotruncus_colihominis,lachnospiraceae_bacterium_3_1_57faa_ct1,0.3146468344,0.98
+parabacteroides_merdae,parabacteroides_merdae,0.3079327486,1
+haemophilus_parainfluenzae,haemophilus_parainfluenzae,0.3075821409,1
+clostridium_asparagiforme,glucose-6-phosphate dehydrogenase nadp+,0.8309531245,0.37
+bacteroides_dorei,bacteroides_dorei,0.3057521996,1
+glycerol kinase,glycerol kinase,0.3004994973,1
+roseburia_unclassified,protein-npi-phosphohistidine-sugar phosphotransferase,-0.2998857547,1
+lachnospiraceae_bacterium_3_1_57faa_ct1,histidine kinase,-0.3523031219,0.85
+clostridium_citroniae,lachnospiraceae_bacterium_7_1_58faa,-0.3645588948,0.82
+mitsuokella_unclassified,alistipes_putredinis,0.9574786948,0.31
+veillonella_dispar,glyceraldehyde-3-phosphate dehydrogenase phosphorylating,0.296770819,1
+ruminococcus_callidus,ruminococcus_callidus,0.2938695632,1
+eggerthella_unclassified,eubacterium_rectale,-0.4738320065,0.62
+fe3+-transporting atpase,fe3+-transporting atpase,0.2931407814,1
+prevotella_copri,prevotella_copri,0.2910852654,1
+veillonella_unclassified,bacterial non-heme ferritin,-0.3370889199,0.86
+clostridium_clostridioforme,bacteroides_stercoris,0.3567860923,0.81
+dorea_longicatena,m__hmdb02322,0.5585437582,0.51
+propionibacterium_acnes,thymidylate synthase,0.2875745468,0.99
+streptococcus_thermophilus,hydroxylamine reductase,0.3026565954,0.94
+clostridium_citroniae,2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,-0.4662167013,0.61
+anaerotruncus_colihominis,formate-c-acetyltransferase-activating enzyme,0.5083052099,0.55
+roseburia_unclassified,roseburia_unclassified,0.2734493195,1
+anaerotruncus_colihominis,superoxide dismutase,0.906061615,0.3
+clostridiales_bacterium_1_7_47faa,clostridium_bartlettii,0.274441771,0.99
+m__hmdb00244,lachnospiraceae_bacterium_1_1_57faa,0.6964026387,0.39
+bacteroides_eggerthii,pyridoxal 5-phosphate synthase,0.267854725,1
+m__hmdb00239,m__hmdb00239,0.2646770181,1
+ruminococcus_obeum,bifidobacterium_adolescentis,-0.3767016309,0.7
+flavonifractor_plautii,glucose-1-phosphate adenylyltransferase,-0.2653576263,0.99
+propionibacterium_acnes,2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase,0.2563338356,1
+eubacterium_hallii,m__hmdb00269,0.2539049384,1
+bacteroides_uniformis,bacteroides_uniformis,0.2513392445,1
+propionibacterium_acnes,orotidine-5-phosphate decarboxylase,0.2498835738,1
+m__hmdb00251,m__hmdb00251,0.2484020719,1
+alistipes_shahii,alistipes_finegoldii,0.2506992261,0.99
+lachnospiraceae_bacterium_3_1_57faa_ct1,pyridoxine 5-phosphate synthase,-0.3133516629,0.79
+anaerostipes_hadrus,m__hmdb00269,-0.3571663797,0.69
+nadh,nadh,0.2406687321,1
+haemophilus_parainfluenzae,escherichia_unclassified,0.2403530752,1
+burkholderiales_bacterium_1_1_47,lachnospiraceae_bacterium_3_1_46faa,0.2424490451,0.99
+clostridium_hathewayi,faecalibacterium_prausnitzii,-0.5673160733,0.42
+erysipelotrichaceae_bacterium_6_1_45,clostridium_hathewayi,0.3297624315,0.72
+holdemania_unclassified,glutamate dehydrogenase,-0.8594732902,0.27
+veillonella_unclassified,eubacterium_eligens,0.2299856185,1
+adenosylmethionine-8-amino-7-oxononanoate transaminase,adenosylmethionine-8-amino-7-oxononanoate transaminase,0.2290590116,1
+clostridiales_bacterium_1_7_47faa,clostridium_bartlettii,-0.2311361186,0.99
+escherichia_unclassified,haemophilus_parainfluenzae,0.3022764958,0.74
+clostridium_symbiosum,clostridium_symbiosum,0.2217761522,1
+mitsuokella_unclassified,odoribacter_splanchnicus,0.5771118076,0.38
+m__hmdb02322,m__hmdb02322,0.2176504363,1
+holdemania_unclassified,subdoligranulum_unclassified,0.6388674466,0.34
+bacteroides_fragilis,bacteroides_fragilis,0.2134109313,1
+propionibacterium_acnes,dna-directed rna polymerase,0.2165883133,0.98
+lachnospiraceae_bacterium_3_1_57faa_ct1,m__hmdb00056,-0.2555052605,0.82
+hgi__defa5,bacteroides_faecis,0.2091100168,1
+clostridiaceae_bacterium_jc118,formate-c-acetyltransferase-activating enzyme,0.4351954406,0.48
+escherichia_unclassified,escherichia_unclassified,-0.208785877,1
+dephospho-coa kinase,veillonella_dispar,0.2086643232,1
+peptidylprolyl isomerase,peptidylprolyl isomerase,0.2067270807,1
+pseudomonas_unclassified,l-lactate dehydrogenase,-0.5890971359,0.35
+hgi__clca1,bacteroides_dorei,0.20796398,0.99
+clostridium_citroniae,lachnospiraceae_bacterium_7_1_58faa,0.2725922081,0.74
+m__hmdb02329,m__hmdb02329,0.2016716771,1
+ruminococcus_torques,ruminococcus_torques,0.20153016,1
+veillonella_atypica,burkholderiales_bacterium_1_1_47,0.198865522,1
+cytochrome-c oxidase,cytochrome-c oxidase,0.1982610595,1
+flavonifractor_plautii,ruminococcus_gnavus,-0.2060401347,0.96
+lachnospiraceae_bacterium_3_1_57faa_ct1,transaldolase,0.2667932394,0.73
+coprococcus_catus,phosphoglycerate kinase,0.3973508585,0.49
+phosphoenolpyruvate carboxykinase atp,phosphoenolpyruvate carboxykinase atp,0.193597128,1
+anaerotruncus_colihominis,transaldolase,0.5645990172,0.34
+alistipes_finegoldii,bacteroides_faecis,0.2125150938,0.9
+m__hmdb02123,bacteroides_vulgatus,0.6830574837,0.28
+aldose 1-epimerase,aldose 1-epimerase,0.1900042073,1
+burkholderiales_bacterium_1_1_47,lachnospiraceae_bacterium_3_1_46faa,-0.190365852,0.99
+collinsella_aerofaciens,2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase,-0.1816914758,1
+pyridoxine 5-phosphate synthase,m__hmdb00626,0.1809890309,0.99
+streptococcus_salivarius,klebsiella_pneumoniae,-0.1786644407,1
+klebsiella_pneumoniae,klebsiella_pneumoniae,0.1782456135,1
+m__hmdb00194,ruminococcus_callidus,0.1935316155,0.92
+lachnospiraceae_bacterium_2_1_58faa,coprococcus_comes,-0.17785651,1
+veillonella_dispar,ribulose-phosphate 3-epimerase,-0.174601075,1
+3-hydroxyacyl-acyl-carrier-protein dehydratase,3-hydroxyacyl-acyl-carrier-protein dehydratase,0.1744469182,1
+serine o-acetyltransferase,serine o-acetyltransferase,0.1744163522,1
+bifidobacterium_longum,streptococcus_salivarius,0.1734694348,1
+veillonella_atypica,burkholderiales_bacterium_1_1_47,0.1732895377,1
+collinsella_aerofaciens,orotidine-5-phosphate decarboxylase,-0.1720258663,1
+anaerostipes_hadrus,anaerostipes_hadrus,0.1716077455,1
+erysipelotrichaceae_bacterium_6_1_45,eggerthella_unclassified,0.1703108317,1
+dna helicase,dna helicase,0.1673060637,1
+anaerotruncus_colihominis,bilophila_unclassified,0.406838282,0.41
+m__hmdb00482,propionibacterium_acnes,0.168295981,0.98
+h+-transporting two-sector atpase,h+-transporting two-sector atpase,0.1643710065,1
+faecalibacterium_prausnitzii,faecalibacterium_prausnitzii,0.160932563,1
+clostridium_leptum,methylaspartate mutase,0.19820264,0.81
+clostridium_leptum,oscillibacter_unclassified,0.2272964098,0.7
+m__hmdb00089,m__hmdb00089,0.1580637535,1
+ruminococcus_torques,veillonella_atypica,0.2445443398,0.64
+veillonella_parvula,roseburia_inulinivorans,0.1552023381,1
+2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,0.1546135863,1
+collinsella_aerofaciens,s-ribosylhomocysteine lyase,-0.1541582958,1
+erysipelotrichaceae_bacterium_6_1_45,5-formyltetrahydrofolate cyclo-ligase,-0.3559573461,0.43
+erysipelotrichaceae_bacterium_6_1_45,eggerthella_unclassified,-0.1522648636,1
+l-serine ammonia-lyase,l-serine ammonia-lyase,0.1518646367,1
+bilophila_unclassified,phosphopyruvate hydratase,0.1771554505,0.85
+roseburia_hominis,bacteroides_dorei,0.3660995329,0.41
+eubacterium_ramulus,peroxiredoxin,-0.2498294506,0.6
+dihydroorotate dehydrogenase quinone,bacteroides_thetaiotaomicron,0.1548490961,0.96
+2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00138,0.1457969008,1
+ruminococcus_lactaris,m__hmdb00289,0.1429932897,1
+nadh dehydrogenase quinone,nadh dehydrogenase quinone,0.1428981107,1
+m__hmdb00056,m__hmdb00056,0.1412200679,1
+phosphogluconate dehydrogenase nadp+-dependent decarboxylating,phosphogluconate dehydrogenase nadp+-dependent decarboxylating,0.1394013859,1
+glucose-6-phosphate dehydrogenase nadp+,glucose-6-phosphate dehydrogenase nadp+,0.1358995569,1
+peptostreptococcaceae_noname_unclassified,peptostreptococcaceae_noname_unclassified,0.1348514816,1
+clostridium_leptum,oscillibacter_unclassified,-0.1913616689,0.7
+ruminococcus_lactaris,ruminococcus_obeum,0.1378094055,0.97
+akkermansia_muciniphila,bacteroides_cellulosilyticus,0.1345079977,0.99
+eubacterium_hallii,eubacterium_hallii,0.1327972083,1
+bacteroides_xylanisolvens,beta-lactamase,0.1319378434,1
+roseburia_hominis,phosphoglycerate kinase,0.1321580783,0.99
+coprobacillus_unclassified,clostridium_symbiosum,0.3429713974,0.38
+aldose 1-epimerase,prevotella_copri,0.1302696529,1
+m__hmdb01257,m__hmdb01257,0.1288528983,1
+hgi__clca1,bacteroides_uniformis,0.1524374168,0.84
+faecalibacterium_prausnitzii,c2likevirus_unclassified,0.1261683724,1
+transaldolase,transaldolase,0.1258955978,1
+anaerostipes_hadrus,m__hmdb04193,0.1263069489,0.99
+;  q06996: l_sendf    ;  o55528: l_sendo,m__hmdb00101,0.7306148288,0.17
+glycerol kinase,roseburia_hominis,0.1240021708,1
+anaerotruncus_unclassified,subdoligranulum_unclassified,0.3255482673,0.38
+collinsella_aerofaciens,thymidylate synthase,-0.1461368008,0.84
+ruminococcus_torques,clostridium_bolteae,0.1425329168,0.85
+parabacteroides_unclassified,parabacteroides_unclassified,0.1205647343,1
+bacteroides_thetaiotaomicron,dihydroorotate dehydrogenase quinone,0.1197726212,1
+holdemania_unclassified,2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,-0.3711566249,0.32
+lachnospiraceae_bacterium_1_1_57faa,ribulose-phosphate 3-epimerase,0.11855529,1
+akkermansia_muciniphila,akkermansia_muciniphila,0.1185032882,1
+clostridium_symbiosum,roseburia_intestinalis,0.1190469457,0.99
+beta-ketoacyl-acyl-carrier-protein synthase ii,prevotella_copri,0.1366654783,0.86
+triose-phosphate isomerase,triose-phosphate isomerase,0.1173410729,1
+bifidobacterium_adolescentis,bifidobacterium_adolescentis,0.1170376899,1
+orotidine-5-phosphate decarboxylase,propionibacterium_acnes,0.1156617097,1
+glucose-1-phosphate adenylyltransferase,glucose-1-phosphate adenylyltransferase,0.114631247,1
+lachnospiraceae_bacterium_7_1_58faa,phosphatidate cytidylyltransferase,0.4353189836,0.26
+4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,0.1119941051,1
+roseburia_unclassified,fe3+-transporting atpase,-0.1103194899,1
+m__hmdb01149,m__hmdb01149,0.1103103323,1
+streptococcus_thermophilus,m__hmdb01149,-0.1461577452,0.75
+anaerotruncus_colihominis,m__hmdb00562,-0.4141773075,0.26
+veillonella_dispar,peroxiredoxin,0.1065256535,1
+bacteroides_vulgatus,bacteroides_vulgatus,0.1063258331,1
+veillonella_unclassified,veillonella_unclassified,0.1062970909,1
+clostridium_clostridioforme,parabacteroides_merdae,0.1054071736,1
+lachnospiraceae_bacterium_1_1_57faa,lachnospiraceae_bacterium_1_1_57faa,0.1031959127,1
+odoribacter_splanchnicus,alistipes_onderdonkii,0.1400742265,0.71
+lachnospiraceae_bacterium_2_1_58faa,lachnospiraceae_bacterium_8_1_57faa,-0.0996927768,0.99
+dna-directed rna polymerase,dna-directed rna polymerase,0.0986068134,1
+m__hmdb00244,alistipes_shahii,0.4840836868,0.2
+anaerotruncus_unclassified,coprococcus_catus,0.1747918941,0.55
+m__hmdb00043,eubacterium_ventriosum,0.1078697074,0.89
+ruminococcus_lactaris,m__hmdb00247,0.0953085882,1
+m__hmdb00365,bacteroides_vulgatus,0.1332946636,0.71
+roseburia_unclassified,acetyl-coa c-acetyltransferase,-0.094240822,1
+escherichia_coli,escherichia_coli,0.0939592264,1
+enoyl-coa hydratase,enoyl-coa hydratase,0.0933638999,1
+parasutterella_excrementihominis,bilophila_unclassified,0.1097507104,0.84
+pseudomonas_unclassified,peroxiredoxin,0.3287571639,0.28
+lachnospiraceae_bacterium_7_1_58faa,peptidylprolyl isomerase,0.2299107505,0.4
+dorea_unclassified,s-ribosylhomocysteine lyase,0.3555369937,0.25
+eggerthella_unclassified,coprobacillus_unclassified,0.2684445849,0.33
+bifidobacterium_longum,serine o-acetyltransferase,-0.0882554118,1
+clostridium_clostridioforme,m__hmdb01991,0.0878610397,0.97
+flavonifractor_plautii,clostridium_clostridioforme,0.3008748553,0.28
+uridine kinase,uridine kinase,0.0838858549,1
+bacteroides_stercoris,bacterial non-heme ferritin,0.0853838588,0.98
+oscillibacter_unclassified,oscillibacter_unclassified,0.0835446074,1
+roseburia_hominis,dihydroorotate dehydrogenase quinone,-0.1189340461,0.7
+clostridium_clostridioforme,m__hmdb00806,-0.0836556211,0.99
+veillonella_unclassified,eubacterium_eligens,-0.1007766409,0.82
+mitsuokella_unclassified,odoribacter_splanchnicus,-0.3800647609,0.21
+sutterella_wadsworthensis,bacteroides_thetaiotaomicron,0.0984003347,0.81
+ruminococcus_bromii,pyridoxine 5-phosphate synthase,-0.0865879291,0.91
+clostridium_clostridioforme,dephospho-coa kinase,-0.0839535488,0.93
+lachnospiraceae_bacterium_8_1_57faa,lachnospiraceae_bacterium_2_1_58faa,0.0781749649,0.99
+ribulose-phosphate 3-epimerase,bacteroides_vulgatus,0.0773220196,1
+haemophilus_parainfluenzae,bifidobacterium_longum,0.0769175464,1
+peptostreptococcaceae_noname_unclassified,streptococcus_salivarius,-0.0765785477,1
+pyridoxal 5-phosphate synthase,bacteroides_eggerthii,0.0795259089,0.96
+veillonella_dispar,bacteroides_stercoris,-0.1678473832,0.45
+2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00637,0.0875518727,0.86
+lachnospiraceae_bacterium_5_1_63faa,m__hmdb00174,-0.0883177745,0.85
+faecalibacterium_prausnitzii,c2likevirus_unclassified,-0.0839667334,0.89
+eubacterium_siraeum,eubacterium_siraeum,0.0746143422,1
+hgr__fabp1,bacteroides_finegoldii,0.0730300525,0.99
+veillonella_dispar,beta-lactamase,-0.0924150169,0.78
+flavonifractor_plautii,3-methyl-2-oxobutanoate hydroxymethyltransferase,0.1572163967,0.45
+clostridium_bartlettii,hydroxylamine reductase,0.1837919051,0.38
+m__hmdb00030,m__hmdb00030,0.0693927516,1
+bifidobacterium_adolescentis,phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,0.0775944491,0.89
+m__hmdb00289,m__hmdb00289,0.068551827,1
+bacteroides_xylanisolvens,glutamate dehydrogenase nadp+,0.0834925461,0.82
+roseburia_inulinivorans,glyceraldehyde-3-phosphate dehydrogenase phosphorylating,0.0686913543,0.99
+eubacterium_ramulus,rna helicase,0.0678952826,1
+clostridium_clostridioforme,pyruvate carboxylase,-0.0853517815,0.79
+klebsiella_pneumoniae,protein-npi-phosphohistidine-sugar phosphotransferase,-0.0690777603,0.97
+roseburia_inulinivorans,roseburia_inulinivorans,0.0665863183,1
+m__hmdb00365,m__hmdb00365,0.0661541287,1
+dihydroorotate dehydrogenase quinone,bacteroides_dorei,0.1201842875,0.55
+dorea_formicigenerans,lachnospiraceae_bacterium_5_1_63faa,0.0935258401,0.7
+bilophila_unclassified,m__hmdb10169,0.0743039243,0.88
+bifidobacterium_adolescentis,m__hmdb02322,0.1164029034,0.56
+flavonifractor_plautii,3-hydroxybutyryl-coa dehydrogenase,-0.1249843397,0.52
+clostridium_asparagiforme,m__hmdb00067,0.1318951921,0.49
+veillonella_dispar,phosphatidate cytidylyltransferase,-0.0974747916,0.66
+eubacterium_ramulus,eubacterium_ramulus,0.0628358141,1
+veillonella_parvula,veillonella_parvula,0.0626538454,1
+clostridium_asparagiforme,m__hmdb00510,0.1562997464,0.4
+s-ribosylhomocysteine lyase,collinsella_aerofaciens,0.0624771362,1
+3-hydroxybutyryl-coa dehydrogenase,faecalibacterium_prausnitzii,0.0815769283,0.75
+odoribacter_splanchnicus,bacteroides_xylanisolvens,0.0912969388,0.65
+haemophilus_parainfluenzae,peptostreptococcaceae_noname_unclassified,0.0787335391,0.75
+roseburia_inulinivorans,shikimate kinase,0.0679989305,0.86
+glutamate decarboxylase,glutamate decarboxylase,0.0581784331,1
+clostridium_symbiosum,glycerate 3-kinase,-0.1432377792,0.4
+streptococcus_thermophilus,pyridoxal 5-phosphate synthase glutamine hydrolyzing,0.156657907,0.36
+bifidobacterium_longum,collinsella_aerofaciens,0.0562682421,1
+odoribacter_splanchnicus,pyridoxal 5-phosphate synthase glutamine hydrolyzing,0.0564418917,0.99
+akkermansia_muciniphila,glutamate dehydrogenase nadp+,0.0545280508,1
+peptostreptococcaceae_noname_unclassified,escherichia_unclassified,0.0986469248,0.55
+clostridium_citroniae,clostridium_symbiosum,0.4137224804,0.13
+m__hmdb00156,lachnospiraceae_bacterium_1_1_57faa,0.1908979628,0.27
+barnesiella_intestinihominis,aldose 1-epimerase,0.0515343558,1
+dorea_longicatena,histidine kinase,-0.0734203965,0.68
+lachnospiraceae_bacterium_3_1_57faa_ct1,akkermansia_muciniphila,0.383805527,0.13
+veillonella_parvula,faecalibacterium_prausnitzii,-0.1036357485,0.48
+peptostreptococcaceae_noname_unclassified,sutterella_wadsworthensis,-0.0838856749,0.59
+lachnospiraceae_bacterium_2_1_58faa,bacteroides_caccae,0.2032080811,0.24
+bacteroides_caccae,bacteroides_caccae,0.0484914189,1
+glutamate dehydrogenase,glutamate dehydrogenase,0.0482910476,1
+bacteroides_finegoldii,dna helicase,0.0687032115,0.7
+ruminococcus_torques,veillonella_atypica,-0.1114027031,0.43
+collinsella_aerofaciens,m__hmdb00482,-0.0487703382,0.98
+pseudomonas_unclassified,m__hmdb00014,0.1903354803,0.25
+ruminococcus_gnavus,ruminococcus_gnavus,0.0471709124,1
+ruminococcus_lactaris,ruminococcus_obeum,-0.078437947,0.6
+pyridoxine 5-phosphate synthase,akkermansia_muciniphila,0.0978195039,0.47
+mitsuokella_unclassified,holdemania_unclassified,-0.0791435339,0.58
+m__hmdb01991,m__hmdb01991,0.045706837,1
+16s rrna cytosine1402-n4-methyltransferase,16s rrna cytosine1402-n4-methyltransferase,0.0455149633,1
+pseudomonas_unclassified,nadh,0.1817312684,0.25
+bilophila_unclassified,3-methyl-2-oxobutanoate hydroxymethyltransferase,0.1053532448,0.43
+barnesiella_intestinihominis,endopeptidase clp,0.0455104731,0.98
+parabacteroides_distasonis,parabacteroides_unclassified,0.0476398744,0.93
+m__hmdb04193,prevotella_copri,0.4419796034,0.1
+klebsiella_pneumoniae,aspartate ammonia-lyase,0.0440827239,1
+prevotella_copri,barnesiella_intestinihominis,0.044125874,0.99
+ruminococcus_torques,clostridium_bolteae,-0.0811622899,0.53
+streptococcus_thermophilus,dorea_longicatena,0.1096108148,0.39
+fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,0.0427042797,1
+bacteroides_finegoldii,bacteroides_eggerthii,0.0745393722,0.57
+veillonella_dispar,glutamate dehydrogenase,-0.042231535,1
+odoribacter_splanchnicus,odoribacter_splanchnicus,0.0417641216,1
+prevotella_copri,barnesiella_intestinihominis,-0.0421566773,0.99
+m__hmdb00020,escherichia_unclassified,0.4133371298,0.1
+streptococcus_parasanguinis,3-hydroxyacyl-acyl-carrier-protein dehydratase,-0.0410932859,1
+alistipes_shahii,alistipes_finegoldii,-0.0974964816,0.42
+dorea_formicigenerans,lachnospiraceae_bacterium_5_1_63faa,-0.0791839699,0.51
+eubacterium_siraeum,m__hmdb00138,0.0433003612,0.93
+coprococcus_catus,dorea_longicatena,0.0936340379,0.43
+roseburia_inulinivorans,aspartate ammonia-lyase,0.0441290388,0.91
+anaerotruncus_colihominis,m__hmdb02123,0.064656114,0.62
+veillonella_dispar,m__hmdb00089,-0.0403279597,0.99
+lachnospiraceae_bacterium_3_1_57faa_ct1,akkermansia_muciniphila,0.3288666746,0.12
+anaerotruncus_unclassified,methylaspartate mutase,0.2805576277,0.14
+collinsella_aerofaciens,m__hmdb00870,0.0399970291,0.98
+akkermansia_muciniphila,m__hmdb00619,-0.0425846896,0.92
+erysipelotrichaceae_bacterium_6_1_45,m__hmdb00262,-0.0449149112,0.87
+lachnospiraceae_bacterium_2_1_58faa,anaerotruncus_colihominis,0.0386109389,1
+bacteroides_ovatus,glycerate 3-kinase,0.0387143418,0.99
+clostridium_symbiosum,clostridium_clostridioforme,0.1418180839,0.27
+bacteroides_eggerthii,bacteroides_finegoldii,-0.0418694556,0.91
+phosphopyruvate hydratase,phosphopyruvate hydratase,0.037904879,1
+bilophila_unclassified,m__hmdb00097,0.0447000103,0.84
+ruminococcus_lactaris,m__hmdb00097,0.0444839532,0.83
+bilophila_unclassified,glutamate dehydrogenase,-0.0500041272,0.73
+ruminococcus_gnavus,parabacteroides_distasonis,-0.0482300546,0.75
+ruminococcus_gnavus,flavonifractor_plautii,0.0358110349,1
+eubacterium_eligens,methionyl aminopeptidase,0.040230867,0.89
+erysipelotrichaceae_bacterium_6_1_45,roseburia_intestinalis,0.1774529422,0.2
+lachnospiraceae_bacterium_8_1_57faa,histidine kinase,-0.1145105705,0.3
+roseburia_inulinivorans,dihydrolipoyl dehydrogenase,-0.0356932476,0.96
+anaerotruncus_unclassified,m__hmdb00194,-0.0609874545,0.55
+glycerol kinase,m__hmdb00626,0.0640959508,0.51
+clostridium_leptum,m__hmdb00174,0.0385166664,0.84
+clostridium_citroniae,oscillibacter_unclassified,0.2842019347,0.11
+glycerate 3-kinase,m__hmdb00239,0.0389293775,0.8
+ruminococcus_gnavus,ruminococcus_torques,0.0341656424,0.9
+clostridium_asparagiforme,hydroxylamine reductase,0.1174186819,0.26
+roseburia_unclassified,parasutterella_excrementihominis,-0.0302463481,1
+bacteroides_dorei,bacteroides_stercoris,-0.0530232495,0.57
+lachnospiraceae_bacterium_7_1_58faa,parabacteroides_distasonis,0.2008184562,0.15
+holdemania_filiformis,dorea_longicatena,0.1200819638,0.25
+phosphoenolpyruvate carboxykinase atp,bacteroides_cellulosilyticus,0.0353782616,0.84
+formate-c-acetyltransferase-activating enzyme,formate-c-acetyltransferase-activating enzyme,0.0295275842,1
+pyridoxine 5-phosphate synthase,alistipes_onderdonkii,0.0491153185,0.6
+anaerotruncus_colihominis,m__hmdb10169,0.1840316441,0.16
+dorea_formicigenerans,dorea_unclassified,0.0506749328,0.58
+holdemania_unclassified,m__hmdb00101,0.2424131663,0.12
+bifidobacterium_longum,m__hmdb02322,-0.076311773,0.38
+bacteroides_fragilis,pyridoxal 5-phosphate synthase,0.0397939688,0.72
+escherichia_coli,parabacteroides_distasonis,0.0291899023,0.97
+m__hmdb00030,clostridium_clostridioforme,0.0372096153,0.76
+veillonella_dispar,dialister_invisus,-0.0519772457,0.54
+ruminococcus_lactaris,ruminococcus_lactaris,0.0269396934,1
+ruminococcus_bromii,bacteroides_eggerthii,0.1583673132,0.17
+bacteroides_massiliensis,bacteroides_massiliensis,0.0265316517,1
+collinsella_aerofaciens,m__hmdb10169,0.0352976218,0.75
+anaerotruncus_unclassified,m__hmdb00725,-0.0297002462,0.88
+ribulose-bisphosphate carboxylase,roseburia_unclassified,-0.0457329514,0.57
+anaerotruncus_colihominis,lachnospiraceae_bacterium_3_1_57faa_ct1,-0.1627539593,0.16
+triose-phosphate isomerase,m__hmdb00036,0.0403671415,0.64
+streptococcus_salivarius,s-ribosylhomocysteine lyase,0.0504544854,0.51
+veillonella_dispar,formate-c-acetyltransferase-activating enzyme,-0.0269717653,0.95
+escherichia_coli,ribulose-bisphosphate carboxylase,0.0254561929,1
+bacteroides_thetaiotaomicron,bacteroides_xylanisolvens,0.0298571124,0.85
+veillonella_unclassified,veillonella_dispar,-0.0484021135,0.5
+anaerostipes_hadrus,ruminococcus_obeum,0.0831750647,0.29
+clostridiales_bacterium_1_7_47faa,coprobacillus_unclassified,0.1048247778,0.23
+klebsiella_pneumoniae,l-lactate dehydrogenase,-0.0240149238,1
+parasutterella_excrementihominis,shikimate kinase,-0.1829425618,0.13
+clostridium_citroniae,oscillibacter_unclassified,-0.2132345744,0.11
+alistipes_shahii,eubacterium_siraeum,0.0475587307,0.49
+flavonifractor_plautii,lachnospiraceae_bacterium_8_1_57faa,0.0265236542,0.86
+bacteroides_cellulosilyticus,glucose-6-phosphate dehydrogenase nadp+,0.0250117799,0.91
+clostridium_symbiosum,coprobacillus_unclassified,0.0359494293,0.62
+lachnospiraceae_bacterium_3_1_57faa_ct1,glutamate dehydrogenase nadp+,-0.1576979471,0.14
+prevotella_copri,m__hmdb00036,0.0219785635,1
+cytochrome-c oxidase,m__hmdb00619,0.0349666064,0.62
+subdoligranulum_unclassified,subdoligranulum_unclassified,0.0216151321,1
+clostridium_clostridioforme,m__hmdb00030,-0.0287319938,0.75
+eubacterium_ramulus,nadh,-0.0672458871,0.32
+ruminococcaceae_bacterium_d16,dihydrolipoyl dehydrogenase,0.1131284993,0.19
+ruminococcus_callidus,bilophila_wadsworthia,-0.0213605117,1
+alistipes_putredinis,alistipes_putredinis,0.0212578978,1
+veillonella_dispar,h+-transporting two-sector atpase,0.0415180896,0.51
+streptococcus_thermophilus,m__hmdb01895,0.0206041458,1
+holdemania_filiformis,m__hmdb00222,-0.0710188321,0.29
+escherichia_coli,dialister_invisus,-0.0206173803,0.98
+holdemania_filiformis,m__hmdb00630,0.0305666433,0.66
+2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00036,0.0576037574,0.35
+clostridium_clostridioforme,m__hmdb00222,-0.0197122962,1
+ruminococcus_lactaris,m__hmdb00637,0.0780028217,0.25
+ruminococcus_gnavus,m__hmdb01257,-0.0554170354,0.35
+lachnospiraceae_bacterium_1_1_57faa,bacteroides_fragilis,0.0740685988,0.26
+coprococcus_catus,m__hmdb00030,0.0770193273,0.24
+pseudomonas_unclassified,m__hmdb01232,0.0223791388,0.82
+roseburia_hominis,faecalibacterium_prausnitzii,0.076442481,0.24
+streptococcus_salivarius,eubacterium_ventriosum,-0.041567376,0.44
+ruminococcus_lactaris,coprococcus_comes,0.0252699382,0.72
+veillonella_dispar,haemophilus_parainfluenzae,-0.0693886207,0.26
+sutterella_wadsworthensis,bacteroides_fragilis,0.0468555147,0.38
+c2likevirus_unclassified,sutterella_wadsworthensis,0.0430912629,0.41
+roseburia_inulinivorans,enoyl-coa hydratase,-0.0174672109,1
+anaerotruncus_unclassified,holdemania_unclassified,0.025574145,0.68
+hgi__defa5,clostridium_clostridioforme,0.0310196775,0.56
+veillonella_atypica,dorea_longicatena,-0.0241250159,0.72
+eubacterium_ramulus,escherichia_coli,0.082335265,0.21
+klebsiella_pneumoniae,ubiquinol oxidase electrogenic: non h+-transporting,0.0171803747,1
+dorea_formicigenerans,dorea_unclassified,-0.0440281615,0.39
+hgr__b2m,bacteroides_ovatus,0.0243147606,0.66
+lachnospiraceae_bacterium_3_1_57faa_ct1,glutamate decarboxylase,-0.0459670518,0.34
+;  q06996: l_sendf    ;  o55528: l_sendo,m__hmdb01232,-0.070464256,0.22
+eubacterium_siraeum,m__hmdb00637,0.023046721,0.66
+escherichia_unclassified,bacteroides_fragilis,0.0891877482,0.17
+hgr__igj,akkermansia_muciniphila,0.0261236106,0.58
+veillonella_dispar,l-lactate dehydrogenase,0.023279671,0.65
+roseburia_hominis,triose-phosphate isomerase,0.0184241123,0.8
+prevotella_copri,uridine kinase,0.0143447987,1
+coprococcus_comes,clostridium_bolteae,0.0795428932,0.18
+veillonella_unclassified,akkermansia_muciniphila,0.042022093,0.34
+l-lactate dehydrogenase,pseudomonas_unclassified,0.0141634055,1
+clostridium_leptum,ubiquinol oxidase electrogenic: non h+-transporting,0.0609294383,0.23
+clostridium_bolteae,superoxide dismutase,0.0325892531,0.43
+veillonella_dispar,m__hmdb00956,-0.0216510641,0.63
+peroxiredoxin,escherichia_unclassified,0.0388769932,0.35
+dorea_longicatena,m__hmdb01257,0.1046412395,0.13
+escherichia_unclassified,clostridium_leptum,0.017909958,0.75
+anaerotruncus_colihominis,clostridium_hathewayi,0.119730331,0.11
+bacteroides_dorei,glycerate 3-kinase,0.0216195503,0.6
+bacteroides_dorei,roseburia_hominis,0.02182201,0.59
+superoxide dismutase,superoxide dismutase,0.012864448,1
+lachnospiraceae_bacterium_1_1_57faa,m__hmdb00956,-0.0205018966,0.62
+streptococcus_parasanguinis,streptococcus_parasanguinis,-0.012521568,1
+eubacterium_ramulus,m__hmdb00296,0.0259424281,0.48
+nadh dehydrogenase quinone,m__hmdb00014,0.0123420827,0.99
+klebsiella_pneumoniae,methylaspartate mutase,0.0119807991,1
+bilophila_unclassified,m__hmdb00247,0.0271831147,0.44
+streptococcus_thermophilus,dorea_unclassified,0.0198396053,0.6
+eubacterium_ventriosum,m__hmdb00043,-0.0259861848,0.45
+barnesiella_intestinihominis,alistipes_putredinis,0.0131220689,0.89
+prevotella_copri,preq1 synthase,0.0114306264,1
+bacteroides_thetaiotaomicron,glycerol kinase,0.0115778891,0.98
+nadh,m__hmdb00101,0.0127974764,0.87
+prevotella_copri,beta-ketoacyl-acyl-carrier-protein synthase ii,0.0111051907,1
+pseudomonas_unclassified,;  q06996: l_sendf    ;  o55528: l_sendo,0.0110289409,1
+clostridium_leptum,hydroxylamine reductase,0.0306214427,0.36
+ruminococcus_obeum,m__hmdb00247,-0.0296882651,0.37
+clostridium_clostridioforme,holdemania_filiformis,0.010885973,1
+lachnospiraceae_bacterium_1_1_57faa,bacteroides_fragilis,0.0546879057,0.19
+holdemania_unclassified,m__hmdb11718,0.0798626411,0.13
+clostridium_clostridioforme,clostridiales_bacterium_1_7_47faa,0.010348046,1
+m__hmdb00956,bacteroides_xylanisolvens,0.0205821317,0.5
+prevotella_copri,phosphoenolpyruvate carboxykinase atp,0.010039688,1
+methionyl aminopeptidase,methionyl aminopeptidase,0.0099009809,1
+roseburia_inulinivorans,clostridium_hathewayi,-0.0114908986,0.86
+dorea_longicatena,veillonella_atypica,0.0571288952,0.17
+akkermansia_muciniphila,superoxide dismutase,-0.0127664966,0.74
+ruminococcus_bromii,c2likevirus_unclassified,0.0853702472,0.11
+escherichia_unclassified,m__hmdb00020,-0.0094451459,0.97
+ruminococcaceae_bacterium_d16,transaldolase,0.040825039,0.22
+veillonella_parvula,veillonella_atypica,0.0344782339,0.26
+clostridium_clostridioforme,holdemania_filiformis,-0.008928956,1
+barnesiella_intestinihominis,4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,0.0119797087,0.73
+roseburia_unclassified,m__hmdb00039,0.0094182085,0.87
+clostridium_clostridioforme,dihydroorotate dehydrogenase quinone,-0.02944737,0.27
+streptococcus_salivarius,m__hmdb00482,0.0161785244,0.49
+eubacterium_ramulus,dihydrolipoyl dehydrogenase,-0.0605496968,0.13
+ruminococcus_callidus,m__hmdb00194,-0.0081065146,0.97
+clostridium_clostridioforme,clostridiales_bacterium_1_7_47faa,-0.0077221889,1
+holdemania_filiformis,m__hmdb00067,-0.0475968409,0.16
+eubacterium_eligens,flavonifractor_plautii,0.0113504717,0.67
+roseburia_intestinalis,roseburia_intestinalis,0.0075130889,1
+collinsella_aerofaciens,bifidobacterium_adolescentis,0.0248603489,0.3
+bacteroides_stercoris,shikimate kinase,0.0112933755,0.65
+roseburia_unclassified,parasutterella_excrementihominis,0.0123237864,0.59
+bilophila_unclassified,superoxide dismutase,0.0345665852,0.21
+roseburia_unclassified,bacterial non-heme ferritin,0.0547869752,0.13
+clostridiales_bacterium_1_7_47faa,m__hmdb00209,-0.0149722675,0.46
+lachnospiraceae_bacterium_3_1_46faa,ruminococcus_bromii,0.0271825251,0.25
+dorea_formicigenerans,16s rrna cytosine1402-n4-methyltransferase,0.0452303697,0.15
+roseburia_hominis,bacteroides_thetaiotaomicron,-0.0479089055,0.14
+holdemania_filiformis,l-serine ammonia-lyase,-0.0418138199,0.16
+bacteroides_finegoldii,pyridoxal 5-phosphate synthase,0.0276927359,0.24
+shikimate kinase,m__hmdb00806,0.0072772894,0.91
+eubacterium_hallii,coprococcus_catus,0.0122236303,0.54
+orotidine-5-phosphate decarboxylase,m__hmdb00296,0.0075338408,0.87
+lachnospiraceae_bacterium_3_1_57faa_ct1,m__hmdb01232,-0.0087782932,0.74
+oscillibacter_unclassified,aldose 1-epimerase,0.0157668576,0.41
+hgi__anpep,subdoligranulum_unclassified,0.0064249451,1
+anaerotruncus_colihominis,m__hmdb00365,0.0355159599,0.18
+eubacterium_eligens,phosphoglycerate kinase,-0.0182407233,0.35
+m__hmdb00101,m__hmdb00101,0.0063398217,1
+bacteroides_faecis,lachnospiraceae_bacterium_1_1_57faa,0.0086725712,0.73
+protein-npi-phosphohistidine-sugar phosphotransferase,roseburia_unclassified,-0.0145765566,0.43
+flavonifractor_plautii,3-hydroxyacyl-coa dehydrogenase,-0.0365577951,0.17
+ruminococcus_lactaris,m__hmdb00156,0.0060560143,1
+anaerotruncus_colihominis,m__hmdb00222,0.0503481605,0.12
+cytochrome-c oxidase,m__hmdb00101,-0.0078347067,0.77
+bacteroides_dorei,alistipes_shahii,0.0064329522,0.93
+roseburia_inulinivorans,erysipelotrichaceae_bacterium_6_1_45,0.0059487571,1
+klebsiella_pneumoniae,fructose-bisphosphate aldolase,0.0059188876,1
+clostridium_clostridioforme,m__hmdb00067,-0.0087477554,0.67
+glutamate dehydrogenase,m__hmdb01257,-0.0130733803,0.44
+veillonella_parvula,erysipelotrichaceae_bacterium_6_1_45,-0.0073078442,0.77
+bacteroides_uniformis,phosphatidate cytidylyltransferase,0.0100274831,0.56
+klebsiella_pneumoniae,streptococcus_parasanguinis,-0.0056401108,0.98
+transaldolase,m__hmdb02322,0.0193370675,0.28
+escherichia_unclassified,m__hmdb11718,-0.0071667144,0.75
+ruminococcus_gnavus,escherichia_coli,-0.0132528124,0.4
+anaerotruncus_unclassified,m__hmdb00262,-0.03295054,0.16
+ruminococcaceae_bacterium_d16,phosphopyruvate hydratase,0.0513953221,0.1
+ruminococcus_gnavus,veillonella_dispar,0.0211024796,0.24
+lachnospiraceae_bacterium_1_1_57faa,m__hmdb11718,-0.0054107379,0.93
+clostridium_symbiosum,flavonifractor_plautii,-0.0171691813,0.29
+sutterella_wadsworthensis,peptostreptococcaceae_noname_unclassified,-0.0194552287,0.25
+roseburia_unclassified,ruminococcaceae_bacterium_d16,-0.004816547,1
+m__hmdb00239,bacteroides_ovatus,0.0132297325,0.36
+roseburia_inulinivorans,ubiquinol oxidase electrogenic: non h+-transporting,-0.007777654,0.6
+barnesiella_intestinihominis,alistipes_putredinis,-0.0081413386,0.57
+eubacterium_hallii,m__hmdb00222,0.0107046101,0.43
+klebsiella_pneumoniae,adenosylmethionine-8-amino-7-oxononanoate transaminase,0.0049442202,0.92
+coprococcus_comes,16s rrna cytosine1402-n4-methyltransferase,0.032326039,0.14
+streptococcus_parasanguinis,nadh,0.0113964844,0.39
+veillonella_unclassified,m__hmdb00870,0.0052888957,0.83
+clostridium_clostridioforme,m__hmdb00014,0.0131383742,0.33
+glycerate 3-kinase,clostridium_symbiosum,0.0065811305,0.65
+nadh,m__hmdb00448,0.0046048214,0.92
+lachnospiraceae_bacterium_8_1_57faa,m__hmdb00562,0.0379747739,0.11
+anaerostipes_hadrus,m__hmdb00244,0.0055760691,0.74
+streptococcus_thermophilus,cytochrome-c oxidase,-0.0314618142,0.13
+collinsella_aerofaciens,m__hmdb00511,-0.0047194404,0.86
+2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,veillonella_dispar,-0.0224676074,0.18
+dihydroorotate dehydrogenase quinone,roseburia_hominis,0.0126887018,0.31
+bacteroides_thetaiotaomicron,alistipes_shahii,-0.0059589511,0.66
+alistipes_putredinis,eubacterium_siraeum,0.0081125135,0.48
+hgr__fabp1,bacteroides_eggerthii,0.0187116508,0.2
+l-lactate dehydrogenase,m__hmdb00014,0.0097744131,0.38
+nadh dehydrogenase quinone,m__hmdb00562,0.006572029,0.55
+m__hmdb01149,streptococcus_thermophilus,0.0036531497,0.98
+thymidylate synthase,alistipes_finegoldii,0.0107681893,0.33
+ruminococcus_lactaris,m__hmdb00128,0.0138429738,0.25
+nadh,m__hmdb04193,0.0040853759,0.84
+escherichia_unclassified,pyridoxal 5-phosphate synthase glutamine hydrolyzing,-0.0142816752,0.24
+ruminococcus_lactaris,m__hmdb00452,-0.0033963598,1
+rna helicase,rna helicase,0.0033635793,1
+glutamate dehydrogenase nadp+,clostridium_bolteae,-0.0090739964,0.37
+bacteroides_massiliensis,m__hmdb00043,0.0037240775,0.9
+eubacterium_rectale,3-hydroxyacyl-coa dehydrogenase,0.0053681855,0.62
+clostridium_clostridioforme,clostridium_asparagiforme,0.003380251,0.98
+bacteroides_massiliensis,phosphatidate cytidylyltransferase,-0.0078419729,0.41
+bacteroides_uniformis,bacteroides_caccae,0.0035762815,0.89
+glutamate dehydrogenase nadp+,m__hmdb00764,0.0032096966,0.99
+faecalibacterium_prausnitzii,dihydrolipoyl dehydrogenase,0.0051104954,0.62
+alistipes_putredinis,alistipes_onderdonkii,0.0120780189,0.26
+bilophila_unclassified,ubiquinol oxidase electrogenic: non h+-transporting,0.0195978056,0.16
+parabacteroides_unclassified,alistipes_onderdonkii,0.0124426689,0.25
+parabacteroides_distasonis,peptidylprolyl isomerase,0.0083586263,0.36
+bacteroides_uniformis,5-formyltetrahydrofolate cyclo-ligase,-0.0053631595,0.56
+veillonella_unclassified,l-serine ammonia-lyase,-0.0036514731,0.82
+bilophila_unclassified,phosphoenolpyruvate carboxykinase atp,-0.0226839288,0.13
+eubacterium_rectale,eubacterium_rectale,0.0028697536,1
+subdoligranulum_unclassified,m__hmdb00626,0.0115361852,0.24
+ruminococcaceae_bacterium_d16,4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,0.0227192091,0.12
+bacteroides_finegoldii,eubacterium_eligens,0.0150030296,0.18
+lachnospiraceae_bacterium_1_1_57faa,lachnospiraceae_bacterium_3_1_57faa_ct1,0.0031264389,0.84
+clostridium_leptum,pyridoxal 5-phosphate synthase glutamine hydrolyzing,-0.0237792976,0.11
+faecalibacterium_prausnitzii,5-formyltetrahydrofolate cyclo-ligase,0.0047065948,0.55
+nadh dehydrogenase quinone,m__hmdb00956,0.0048825607,0.53
+anaerostipes_hadrus,ruminococcus_obeum,0.0235097345,0.11
+parasutterella_excrementihominis,m__hmdb00195,0.0067430605,0.38
+veillonella_unclassified,2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,-0.0031469969,0.78
+veillonella_unclassified,clostridium_symbiosum,0.0070006744,0.35
+bacteroides_vulgatus,dorea_formicigenerans,-0.0023582806,1
+veillonella_dispar,clostridium_asparagiforme,-0.0026782217,0.88
+veillonella_dispar,cytochrome-c oxidase,0.006699927,0.35
+aspartate ammonia-lyase,m__hmdb00039,-0.0032583829,0.71
+ribulose-bisphosphate carboxylase,pseudomonas_unclassified,0.0031142699,0.74
+bacteroides_vulgatus,dorea_formicigenerans,0.0022764965,0.99
+oscillibacter_unclassified,clostridium_leptum,0.0080432274,0.28
+nadh dehydrogenase quinone,m__hmdb00128,0.0033684876,0.66
+bacteroides_fragilis,shikimate kinase,0.0079065713,0.28
+pseudomonas_unclassified,rna helicase,-0.0128985548,0.17
+bifidobacterium_adolescentis,dialister_invisus,-0.0099499299,0.22
+m__hmdb10169,alistipes_finegoldii,0.0155723597,0.14
+bacteroides_ovatus,dna helicase,0.0098452046,0.22
+bacteroides_dorei,bacteroides_stercoris,0.0134717668,0.16
+akkermansia_muciniphila,m__hmdb01257,0.0133915446,0.16
+nadh,m__hmdb03464,0.0023627839,0.89
+bacteroides_cellulosilyticus,bacteroides_massiliensis,0.0039949568,0.51
+burkholderiales_bacterium_1_1_47,parasutterella_excrementihominis,0.0077825138,0.26
+eubacterium_rectale,5-formyltetrahydrofolate cyclo-ligase,-0.0051619101,0.39
+m__hmdb04610,m__hmdb04610,0.0019625253,1
+ruminococcus_bromii,subdoligranulum_unclassified,0.0075442089,0.26
+lachnospiraceae_bacterium_1_1_57faa,m__hmdb00156,-0.0019590897,1
+holdemania_unclassified,m__hmdb00139,-0.0135840944,0.14
+subdoligranulum_unclassified,m__hmdb02322,-0.0117540614,0.16
+flavonifractor_plautii,coprococcus_catus,0.0061890872,0.3
+bacterial non-heme ferritin,ruminococcus_bromii,0.0027616458,0.65
+nadh dehydrogenase quinone,m__hmdb00289,0.0038812834,0.46
+bacteroides_uniformis,16s rrna cytosine1402-n4-methyltransferase,0.0028326873,0.63
+eubacterium_siraeum,m__hmdb00510,0.0032110775,0.55
+roseburia_inulinivorans,veillonella_parvula,-0.004393739,0.4
+glucose-6-phosphate dehydrogenase nadp+,bacteroides_uniformis,0.0105907836,0.16
+triose-phosphate isomerase,m__hmdb00619,0.0076962025,0.22
+peptostreptococcaceae_noname_unclassified,m__hmdb00020,0.0016939554,0.96
+cytochrome-c oxidase,m__hmdb00448,-0.0021903237,0.72
+clostridium_clostridioforme,clostridium_symbiosum,0.0073995308,0.2
+barnesiella_intestinihominis,pyridoxal 5-phosphate synthase glutamine hydrolyzing,0.0067263479,0.22
+roseburia_unclassified,m__hmdb00626,0.0118883522,0.12
+akkermansia_muciniphila,glucose-6-phosphate dehydrogenase nadp+,0.0050760308,0.28
+bacteroides_caccae,lachnospiraceae_bacterium_2_1_58faa,0.0015677453,0.9
+veillonella_dispar,m__hmdb00715,-0.0022704651,0.61
+collinsella_aerofaciens,m__hmdb00296,-0.0048288548,0.28
+ruminococcaceae_bacterium_d16,m__hmdb00870,-0.0112648005,0.12
+cytochrome-c oxidase,m__hmdb03464,-0.0016008679,0.84
+veillonella_dispar,m__hmdb00630,-0.0015277897,0.87
+veillonella_unclassified,veillonella_atypica,0.0131533105,0.1
+eubacterium_rectale,3-hydroxybutyryl-coa dehydrogenase,0.0033494193,0.39
+ruminococcus_bromii,2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,0.0048660907,0.26
+bacteroides_fragilis,h+-transporting two-sector atpase,0.003393181,0.37
+anaerostipes_hadrus,m__hmdb00118,0.0045996018,0.26
+prevotella_copri,nadh dehydrogenase quinone,0.0017571016,0.65
+cytochrome-c oxidase,m__hmdb00251,0.0011413585,0.99
+formate-c-acetyltransferase-activating enzyme,clostridiaceae_bacterium_jc118,-0.0011222734,1
+eubacterium_eligens,peptidylprolyl isomerase,-0.0061879643,0.18
+c2likevirus_unclassified,faecalibacterium_prausnitzii,-0.0100962059,0.11
+m__hmdb00174,lachnospiraceae_bacterium_5_1_63faa,0.0048102086,0.22
+superoxide dismutase,akkermansia_muciniphila,0.0028593027,0.36
+bacteroides_uniformis,glucose-6-phosphate dehydrogenase nadp+,0.003059508,0.33
+pyridoxine 5-phosphate synthase,ruminococcus_bromii,0.0059031566,0.17
+parabacteroides_distasonis,parabacteroides_unclassified,-0.0099785625,0.1
+erysipelotrichaceae_bacterium_6_1_45,m__hmdb00873,-0.0057436172,0.17
+subdoligranulum_unclassified,veillonella_atypica,0.0053504608,0.18
+pseudomonas_unclassified,m__hmdb00098,0.0063823802,0.15
+preq1 synthase,m__hmdb00619,-0.0059476793,0.16
+clostridium_clostridioforme,m__hmdb01547,-0.0010150593,0.93
+lachnospiraceae_bacterium_1_1_57faa,methionyl aminopeptidase,-0.0085808604,0.11
+triose-phosphate isomerase,m__hmdb00562,0.0033546562,0.28
+dephospho-coa kinase,clostridiaceae_bacterium_jc118,0.0011109373,0.81
+nadh,m__hmdb00098,0.0010427022,0.85
+roseburia_unclassified,m__hmdb00094,0.0008640294,0.99
+alistipes_onderdonkii,m__hmdb00094,0.0008716276,0.96
+2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb01149,0.0029557291,0.28
+akkermansia_muciniphila,m__hmdb00239,0.0055134062,0.15
+alistipes_putredinis,m__hmdb00510,0.0017134556,0.46
+burkholderiales_bacterium_1_1_47,coprococcus_comes,-0.0039337369,0.2
+glycerate 3-kinase,dialister_invisus,0.0043629622,0.18
+holdemania_filiformis,m__hmdb01547,-0.0039149382,0.2
+bacteroides_dorei,bacteroides_massiliensis,0.0020123959,0.38
+preq1 synthase,m__hmdb00195,0.0010817235,0.7
+oscillibacter_unclassified,clostridium_leptum,-0.0047274859,0.16
+veillonella_atypica,veillonella_parvula,0.0062916777,0.12
+eubacterium_hallii,coprococcus_catus,-0.004759147,0.15
+nadh dehydrogenase quinone,m__hmdb00699,0.0007050986,1
+preq1 synthase,m__hmdb00562,-0.0029109564,0.24
+clostridium_asparagiforme,holdemania_unclassified,0.0031410623,0.22
+hgr__krt8,peptostreptococcaceae_noname_unclassified,-0.0017969934,0.38
+ruminococcus_lactaris,m__hmdb10169,0.0067864927,0.1
+triose-phosphate isomerase,m__hmdb00118,0.0006508773,0.99
+2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00725,0.0006384891,1
+transaldolase,m__hmdb00873,-0.0007382047,0.83
+odoribacter_splanchnicus,ruminococcus_lactaris,0.0008691722,0.69
+uridine kinase,clostridium_leptum,0.0008276454,0.72
+eubacterium_rectale,ruminococcus_bromii,0.0024427811,0.24
+roseburia_inulinivorans,s-ribosylhomocysteine lyase,0.002430483,0.24
+klebsiella_pneumoniae,cytochrome-c oxidase,-0.0017238123,0.32
+m__hmdb02329,anaerostipes_hadrus,-0.0005716266,0.96
+odoribacter_splanchnicus,m__hmdb00128,0.0031990783,0.17
+lachnospiraceae_bacterium_1_1_57faa,m__hmdb00097,-0.0028609252,0.19
+hgr__lgals4,ruminococcus_bromii,0.0009233214,0.58
+shikimate kinase,m__hmdb00511,0.0005359249,0.99
+glutamate dehydrogenase nadp+,anaerotruncus_colihominis,-0.000525163,1
+l-lactate dehydrogenase,m__hmdb00139,0.0006569147,0.79
+haemophilus_parainfluenzae,escherichia_coli,-0.0050934587,0.1
+bacteroides_uniformis,pyruvate carboxylase,0.0024205109,0.21
+c2likevirus_unclassified,escherichia_coli,0.0029853694,0.17
+glutamate dehydrogenase nadp+,bilophila_wadsworthia,-0.0008157411,0.62
+nadh dehydrogenase quinone,m__hmdb00209,-0.0005122815,0.98
+bacteroides_cellulosilyticus,phosphoenolpyruvate carboxykinase atp,0.0033283251,0.15
+eubacterium_eligens,3-hydroxyacyl-coa dehydrogenase,-0.0044482808,0.11
+pseudomonas_unclassified,m__hmdb00244,0.0021637201,0.22
+subdoligranulum_unclassified,m__hmdb00067,0.0009498891,0.48
+bilophila_wadsworthia,ruminococcus_lactaris,0.0019530203,0.23
+m__hmdb00174,clostridiaceae_bacterium_jc118,0.0027206628,0.16
+parabacteroides_unclassified,phosphoenolpyruvate carboxykinase atp,0.0031813821,0.13
+veillonella_parvula,clostridium_hathewayi,0.0031747451,0.13
+nadh,m__hmdb01895,0.0004070921,1
+eubacterium_siraeum,clostridium_citroniae,0.0004527821,0.82
+veillonella_unclassified,h+-transporting two-sector atpase,0.0037058172,0.1
+roseburia_unclassified,m__hmdb00195,0.0007687322,0.47
+coprococcus_comes,m__hmdb00699,0.0013954196,0.25
+superoxide dismutase,m__hmdb00764,0.0003223713,1
+methylaspartate mutase,m__hmdb00089,-0.0020535782,0.15
+bacteroides_massiliensis,phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,0.0027062678,0.11
+pseudomonas_unclassified,m__hmdb00630,0.0029303184,0.1
+roseburia_intestinalis,coprobacillus_unclassified,0.0008276454,0.35
+bacteroides_fragilis,ruminococcaceae_bacterium_d16,0.0004163906,0.68
+escherichia_coli,nadh dehydrogenase quinone,0.0011969293,0.23
+streptococcus_parasanguinis,;  q06996: l_sendf    ;  o55528: l_sendo,-0.000272019,1
+prevotella_copri,m__hmdb00562,0.000999972,0.27
+phosphoenolpyruvate carboxykinase atp,m__hmdb00365,0.0003451504,0.75
+bacteroides_uniformis,superoxide dismutase,0.0011516022,0.22
+dialister_invisus,ruminococcus_bromii,0.0022819624,0.11
+escherichia_coli,veillonella_parvula,0.0013551955,0.18
+bacteroides_stercoris,transaldolase,0.0006946454,0.35
+rna helicase,veillonella_parvula,0.0006125683,0.38
+bacteroides_fragilis,coprobacillus_unclassified,0.0006806119,0.34
+nadh,m__hmdb00139,-0.0004099312,0.53
+clostridium_clostridioforme,m__hmdb00063,-0.0002235088,0.91
+ruminococcus_lactaris,m__hmdb03357,-0.0002871778,0.7
+3-hydroxyacyl-acyl-carrier-protein dehydratase,m__hmdb00039,-0.001938122,0.1
+orotidine-5-phosphate decarboxylase,m__hmdb00482,-0.0015881156,0.12
+rna helicase,m__hmdb00873,0.0001873359,0.99
+2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase,m__hmdb00056,-0.0018433937,0.1
+rna helicase,m__hmdb04610,0.0001839566,1
+aspartate ammonia-lyase,m__hmdb00098,-0.0002909139,0.63
+klebsiella_pneumoniae,pseudomonas_unclassified,-0.0007002234,0.26
+akkermansia_muciniphila,m__hmdb00452,-0.0002036972,0.89
+m__hmdb00251,mitsuokella_unclassified,-0.0004527821,0.4
+oscillibacter_unclassified,clostridium_citroniae,0.0005245788,0.34
+clostridium_symbiosum,m__hmdb00209,-0.0006956029,0.25
+bilophila_unclassified,m__hmdb00715,0.0014363958,0.12
+superoxide dismutase,m__hmdb00043,0.0003587761,0.47
+parabacteroides_merdae,transaldolase,0.0011924612,0.14
+2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00247,0.0014852253,0.11
+holdemania_filiformis,m__hmdb00019,-0.0004418102,0.36
+streptococcus_thermophilus,m__hmdb03357,0.0004313005,0.36
+nadh,m__hmdb00715,0.0005390313,0.28
+uridine kinase,m__hmdb00562,0.0008824574,0.17
+faecalibacterium_prausnitzii,eubacterium_ventriosum,0.000742703,0.2
+beta-ketoacyl-acyl-carrier-protein synthase ii,m__hmdb00195,-0.0003351968,0.44
+hgi__atp1a1,eubacterium_ventriosum,-0.0003304538,0.42
+enoyl-coa hydratase,m__hmdb00510,-0.0007884539,0.17
+subdoligranulum_unclassified,m__hmdb00510,0.0006369298,0.21
+triose-phosphate isomerase,m__hmdb00956,0.0012052245,0.11
+5-formyltetrahydrofolate cyclo-ligase,odoribacter_splanchnicus,-0.0003476773,0.38
+dna-directed rna polymerase,m__hmdb00118,-0.000174878,0.74
+enoyl-coa hydratase,erysipelotrichaceae_bacterium_6_1_45,-0.0005365094,0.23
+bacteroides_massiliensis,lachnospiraceae_bacterium_5_1_63faa,-0.0004163906,0.29
+nadh dehydrogenase quinone,m__hmdb00039,-0.0007295354,0.15
+phosphoenolpyruvate carboxykinase atp,m__hmdb00128,-0.0004246177,0.24
+m__hmdb00194,mitsuokella_unclassified,0.0006321567,0.16
+bacteroides_caccae,pyridoxine 5-phosphate synthase,0.0010074217,0.1
+dna helicase,clostridium_symbiosum,0.0005486344,0.18
+shikimate kinase,m__hmdb00482,0.0003958781,0.24
+3-hydroxyacyl-coa dehydrogenase,m__hmdb00262,0.0003576558,0.26
+bacteroides_massiliensis,lachnospiraceae_bacterium_5_1_63faa,0.0003437106,0.27
+coprobacillus_unclassified,holdemania_unclassified,-0.0005991892,0.14
+ruminococcus_lactaris,m__hmdb00630,0.0006371544,0.13
+hgi__hla-dra,bilophila_unclassified,0.0006866606,0.12
+eubacterium_ramulus,holdemania_unclassified,0.0006478733,0.12
+lachnospiraceae_bacterium_1_1_57faa,m__hmdb00244,-0.000200978,0.37
+methionyl aminopeptidase,lachnospiraceae_bacterium_1_1_57faa,0.0001456902,0.51
+alistipes_shahii,odoribacter_splanchnicus,0.0005335064,0.13
+hgi__defa5,lachnospiraceae_bacterium_1_1_57faa,-0.0006852244,0.1
+peptostreptococcaceae_noname_unclassified,eubacterium_rectale,-0.0002909065,0.23
+glutamate dehydrogenase nadp+,m__hmdb00296,0.0003805179,0.17
+prevotella_copri,4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,0.0003029714,0.2
+bacteroides_massiliensis,m__hmdb01547,-0.0000863664,0.7
+roseburia_intestinalis,clostridium_citroniae,-0.0001181171,0.5
+prevotella_copri,dna-directed rna polymerase,0.0004889195,0.12
+faecalibacterium_prausnitzii,triose-phosphate isomerase,0.0003065242,0.19
+akkermansia_muciniphila,m__hmdb02123,0.0001673097,0.34
+akkermansia_muciniphila,m__hmdb00715,-0.0002235755,0.25
+holdemania_unclassified,m__hmdb00019,-0.0005435219,0.1
+roseburia_unclassified,m__hmdb11718,0.0003466856,0.15
+escherichia_unclassified,dorea_unclassified,-0.0003381593,0.14
+alistipes_finegoldii,m__hmdb01232,0.0002018335,0.21
+roseburia_intestinalis,coprococcus_catus,-0.0002009074,0.21
+dna-directed rna polymerase,m__hmdb00715,-0.0001357787,0.29
+roseburia_unclassified,m__hmdb00174,0.0003000875,0.13
+m__hmdb00289,anaerotruncus_unclassified,0.0000610313,0.61
+triose-phosphate isomerase,m__hmdb00194,0.000132526,0.28
+sutterella_wadsworthensis,streptococcus_thermophilus,-0.0001417519,0.26
+roseburia_inulinivorans,oscillibacter_unclassified,-0.0003608047,0.1
+m__hmdb01257,veillonella_atypica,0.000296368,0.12
+bifidobacterium_adolescentis,m__hmdb00098,0.0001845583,0.19
+parabacteroides_unclassified,odoribacter_splanchnicus,0.0001402475,0.25
+parabacteroides_distasonis,m__hmdb00448,0.0002848449,0.12
+dna-directed rna polymerase,m__hmdb00262,-0.0001182944,0.26
+nadh,m__hmdb01169,0.0000492933,0.61
+4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,bilophila_wadsworthia,0.0001580742,0.18
+beta-ketoacyl-acyl-carrier-protein synthase ii,m__hmdb00699,-0.0000876096,0.31
+methylaspartate mutase,m__hmdb00098,-0.0001580742,0.17
+nadh dehydrogenase quinone,m__hmdb00174,-0.0001639456,0.13
+transaldolase,m__hmdb00197,-0.0000231326,0.92
+16s rrna cytosine1402-n4-methyltransferase,odoribacter_splanchnicus,0.0000378786,0.53
+bifidobacterium_adolescentis,m__hmdb00262,0.0001765174,0.11
+eubacterium_eligens,m__hmdb01169,-0.000039649,0.46
+hgi__cd74,bilophila_unclassified,-0.0000714595,0.25
+endopeptidase clp,bilophila_wadsworthia,0.0001600258,0.11
+methylaspartate mutase,m__hmdb00630,-0.0001094801,0.16
+roseburia_unclassified,m__hmdb00511,0.0001330104,0.13
+uridine kinase,m__hmdb00063,-0.0000182171,0.94
+bacteroides_faecis,m__hmdb00244,0.0000801774,0.21
+aspartate ammonia-lyase,m__hmdb03464,0.0000939204,0.15
+aspartate ammonia-lyase,m__hmdb00699,0.0000601656,0.23
+eubacterium_rectale,rna helicase,0.0000958821,0.14
+enoyl-coa hydratase,eubacterium_rectale,0.0001085351,0.12
+dna-directed rna polymerase,m__hmdb00197,-0.000013075,0.94
+shikimate kinase,m__hmdb00139,0.0000405304,0.3
+alistipes_putredinis,mitsuokella_unclassified,0.0000258023,0.36
+bacteroides_vulgatus,dorea_unclassified,0.0000434248,0.19
+eubacterium_siraeum,clostridium_citroniae,-0.0000602165,0.12
+glycerol kinase,mitsuokella_unclassified,0.0000293208,0.24
+rna helicase,m__hmdb00262,0.0000351187,0.19
+phosphopyruvate hydratase,ruminococcus_callidus,0.0000599907,0.11
+barnesiella_intestinihominis,mitsuokella_unclassified,0.0000304936,0.21
+shikimate kinase,m__hmdb00812,0.0000067664,0.91
+bifidobacterium_adolescentis,m__hmdb00139,0.0000512414,0.12
+shikimate kinase,ruminococcaceae_bacterium_d16,0.0000610313,0.1
+nadh dehydrogenase quinone,m__hmdb00019,-0.000008476,0.65
+bacteroides_ovatus,lachnospiraceae_bacterium_7_1_58faa,0.0000378762,0.14
+roseburia_intestinalis,clostridium_citroniae,0.0000405304,0.13
+hgr__atp1a1,eubacterium_rectale,-0.0000258018,0.19
+5-formyltetrahydrofolate cyclo-ligase,m__hmdb00019,0.000008476,0.56
+pyridoxine 5-phosphate synthase,m__hmdb01169,0.0000182171,0.24
+uridine kinase,m__hmdb00244,-0.0000128284,0.31
+beta-lactamase,m__hmdb00194,0.0000351187,0.11
+dna helicase,lachnospiraceae_bacterium_7_1_58faa,-0.0000252508,0.15
+dna-directed rna polymerase,m__hmdb01169,-0.0000075012,0.5
+bacteroides_cellulosilyticus,m__hmdb00812,0.0000067664,0.46
+methionyl aminopeptidase,m__hmdb00510,0.0000211429,0.13
+triose-phosphate isomerase,m__hmdb00812,0.0000056387,0.42
+rna helicase,clostridium_asparagiforme,0.0000158651,0.14
+eubacterium_siraeum,m__hmdb00725,0.0000199528,0.11
+peptidylprolyl isomerase,m__hmdb00699,-0.0000182171,0.11
+rna helicase,mitsuokella_unclassified,-0.0000030173,0.32
+methionyl aminopeptidase,m__hmdb03357,0.0000010676,0.89
+roseburia_inulinivorans,m__hmdb00812,0.0000022555,0.18
+m__hmdb04610,anaerotruncus_unclassified,-0.0000022554,0.15
+5-formyltetrahydrofolate cyclo-ligase,m__hmdb00197,-0.0000030173,0.11
+bifidobacterium_adolescentis,m__hmdb00019,0.0000022555,0.1

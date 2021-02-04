@@ -1,0 +1,159 @@
+source,target,weigh,bootscore
+prevotella_copri,prevotella_copri,0.9998411466,NA
+week sample obtained,prevotella_copri,0.0001588534,NA
+faecalibacterium_prausnitzii,faecalibacterium_prausnitzii,0.9995627333,NA
+week sample obtained,faecalibacterium_prausnitzii,-0.0004372667,NA
+bacteroides_uniformis,bacteroides_uniformis,1,NA
+bacteroides_stercoris,bacteroides_stercoris,0.9998560418,NA
+week sample obtained,bacteroides_stercoris,0.0001439582,NA
+escherichia_coli,escherichia_coli,1,NA
+roseburia_intestinalis,roseburia_intestinalis,0.9993139522,NA
+week sample obtained,roseburia_intestinalis,-0.0006860478,NA
+bacteroides_vulgatus,bacteroides_vulgatus,0.9997178339,NA
+week sample obtained,bacteroides_vulgatus,0.0002821661,NA
+bacteroides_fragilis,bacteroides_fragilis,0.9998456077,NA
+week sample obtained,bacteroides_fragilis,-0.0001543923,NA
+eubacterium_rectale,eubacterium_rectale,0.9997707435,NA
+week sample obtained,eubacterium_rectale,0.0002292565,NA
+akkermansia_muciniphila,akkermansia_muciniphila,0.999919485,NA
+week sample obtained,akkermansia_muciniphila,-0.000080515,NA
+klebsiella_pneumoniae,klebsiella_pneumoniae,0.9997423962,NA
+week sample obtained,klebsiella_pneumoniae,-0.0002576038,NA
+subdoligranulum_unclassified,subdoligranulum_unclassified,1,NA
+bacteroides_ovatus,bacteroides_ovatus,1,NA
+bacteroides_dorei,bacteroides_dorei,1,NA
+bacteroides_eggerthii,bacteroides_eggerthii,1,NA
+bacteroides_caccae,bacteroides_caccae,0.9999155003,NA
+week sample obtained,bacteroides_caccae,-0.0000844997,NA
+haemophilus_parainfluenzae,haemophilus_parainfluenzae,0.9999545103,NA
+week sample obtained,haemophilus_parainfluenzae,-0.0000454897,NA
+eubacterium_siraeum,eubacterium_siraeum,1,NA
+dialister_invisus,dialister_invisus,1,NA
+bacteroides_cellulosilyticus,bacteroides_cellulosilyticus,1,NA
+bacteroides_massiliensis,bacteroides_massiliensis,1,NA
+alistipes_putredinis,alistipes_putredinis,0.999945913,NA
+week sample obtained,alistipes_putredinis,0.000054087,NA
+parabacteroides_distasonis,parabacteroides_distasonis,1,NA
+escherichia_unclassified,escherichia_unclassified,0.9999902475,NA
+week sample obtained,escherichia_unclassified,0.0000097525,NA
+c2likevirus_unclassified,c2likevirus_unclassified,1,NA
+alistipes_onderdonkii,alistipes_onderdonkii,0.9999803727,NA
+week sample obtained,alistipes_onderdonkii,0.0000196273,NA
+bacteroides_thetaiotaomicron,bacteroides_thetaiotaomicron,0.9999153428,NA
+week sample obtained,bacteroides_thetaiotaomicron,-0.0000846572,NA
+parabacteroides_unclassified,parabacteroides_unclassified,0.9999702715,NA
+week sample obtained,parabacteroides_unclassified,0.0000297285,NA
+ruminococcus_gnavus,ruminococcus_gnavus,0.9996693541,NA
+week sample obtained,ruminococcus_gnavus,-0.0003306459,NA
+parabacteroides_merdae,parabacteroides_merdae,1,NA
+veillonella_unclassified,veillonella_unclassified,0.9996693988,NA
+week sample obtained,veillonella_unclassified,-0.0003306459,NA
+sutterella_wadsworthensis,sutterella_wadsworthensis,0.9997848934,NA
+week sample obtained,sutterella_wadsworthensis,-0.0002151066,NA
+veillonella_parvula,veillonella_parvula,0.9999528979,NA
+week sample obtained,veillonella_parvula,-0.0000471021,NA
+bacteroides_faecis,bacteroides_faecis,1,NA
+clostridium_hathewayi,clostridium_hathewayi,0.9999937436,NA
+week sample obtained,clostridium_hathewayi,0.0000062564,NA
+peptostreptococcaceae_noname_unclassified,peptostreptococcaceae_noname_unclassified,1,NA
+bifidobacterium_adolescentis,bifidobacterium_adolescentis,0.9999699169,NA
+week sample obtained,bifidobacterium_adolescentis,0.0000300831,NA
+barnesiella_intestinihominis,barnesiella_intestinihominis,1,NA
+ruminococcus_bromii,ruminococcus_bromii,1,NA
+oscillibacter_unclassified,oscillibacter_unclassified,0.9999564458,NA
+week sample obtained,oscillibacter_unclassified,0.0000435542,NA
+clostridium_clostridioforme,clostridium_clostridioforme,0.9999702715,NA
+week sample obtained,clostridium_clostridioforme,-0.0000297285,NA
+eubacterium_eligens,eubacterium_eligens,0.9999528975,NA
+week sample obtained,eubacterium_eligens,-0.0000471025,NA
+roseburia_inulinivorans,roseburia_inulinivorans,1,NA
+streptococcus_parasanguinis,streptococcus_parasanguinis,0.9999937414,NA
+week sample obtained,streptococcus_parasanguinis,-0.0000062564,NA
+bacteroides_finegoldii,bacteroides_finegoldii,1,NA
+ruminococcus_torques,ruminococcus_torques,1,NA
+bacteroides_xylanisolvens,bacteroides_xylanisolvens,1,NA
+bifidobacterium_longum,bifidobacterium_longum,0.9999674759,NA
+week sample obtained,bifidobacterium_longum,0.0000325241,NA
+veillonella_dispar,veillonella_dispar,1,NA
+alistipes_finegoldii,alistipes_finegoldii,1,NA
+clostridium_bolteae,clostridium_bolteae,1,NA
+alistipes_shahii,alistipes_shahii,1,NA
+odoribacter_splanchnicus,odoribacter_splanchnicus,1,NA
+clostridium_leptum,clostridium_leptum,0.0099009704,NA
+week sample obtained,clostridium_leptum,0.9900990296,NA
+roseburia_hominis,roseburia_hominis,1,NA
+clostridium_symbiosum,clostridium_symbiosum,1,NA
+lachnospiraceae_bacterium_1_1_57faa,lachnospiraceae_bacterium_1_1_57faa,1,NA
+roseburia_unclassified,roseburia_unclassified,0.9999890637,NA
+week sample obtained,roseburia_unclassified,-0.0000109363,NA
+clostridium_citroniae,clostridium_citroniae,1,NA
+eubacterium_ventriosum,eubacterium_ventriosum,1,NA
+pseudomonas_unclassified,pseudomonas_unclassified,1,NA
+ruminococcus_lactaris,ruminococcus_lactaris,0.9999937437,NA
+week sample obtained,ruminococcus_lactaris,-0.0000062564,NA
+bilophila_unclassified,bilophila_unclassified,1,NA
+dorea_longicatena,dorea_longicatena,0.9999928055,NA
+week sample obtained,dorea_longicatena,0.0000071945,NA
+veillonella_atypica,veillonella_atypica,0.0099009686,NA
+week sample obtained,veillonella_atypica,0.9900990296,NA
+flavonifractor_plautii,flavonifractor_plautii,0.9999960765,NA
+week sample obtained,flavonifractor_plautii,-0.0000039235,NA
+collinsella_aerofaciens,collinsella_aerofaciens,0.9999937437,NA
+week sample obtained,collinsella_aerofaciens,0.0000062564,NA
+streptococcus_salivarius,streptococcus_salivarius,1,NA
+eubacterium_hallii,eubacterium_hallii,1,NA
+ruminococcus_callidus,ruminococcus_callidus,0.9999978738,NA
+week sample obtained,ruminococcus_callidus,0.0000021262,NA
+lachnospiraceae_bacterium_3_1_46faa,lachnospiraceae_bacterium_3_1_46faa,0.9999937437,NA
+week sample obtained,lachnospiraceae_bacterium_3_1_46faa,0.0000062564,NA
+burkholderiales_bacterium_1_1_47,burkholderiales_bacterium_1_1_47,1,NA
+coprobacillus_unclassified,coprobacillus_unclassified,0.9999937437,NA
+week sample obtained,coprobacillus_unclassified,-0.0000062564,NA
+parasutterella_excrementihominis,parasutterella_excrementihominis,0.0099009802,NA
+week sample obtained,parasutterella_excrementihominis,0.9900990198,NA
+ruminococcus_obeum,ruminococcus_obeum,0.0099009803,NA
+week sample obtained,ruminococcus_obeum,0.9900990198,NA
+propionibacterium_acnes,propionibacterium_acnes,1,NA
+streptococcus_thermophilus,streptococcus_thermophilus,0.0099009801,NA
+week sample obtained,streptococcus_thermophilus,0.9900990198,NA
+coprococcus_comes,coprococcus_comes,1,NA
+eubacterium_ramulus,eubacterium_ramulus,0.0099009722,NA
+week sample obtained,eubacterium_ramulus,0.9900990296,NA
+mitsuokella_unclassified,mitsuokella_unclassified,1,NA
+lachnospiraceae_bacterium_8_1_57faa,lachnospiraceae_bacterium_8_1_57faa,0.9999937437,NA
+week sample obtained,lachnospiraceae_bacterium_8_1_57faa,-0.0000062564,NA
+ruminococcaceae_bacterium_d16,ruminococcaceae_bacterium_d16,0.0099009804,NA
+week sample obtained,ruminococcaceae_bacterium_d16,0.9900990198,NA
+lachnospiraceae_bacterium_3_1_57faa_ct1,lachnospiraceae_bacterium_3_1_57faa_ct1,0.0099009797,NA
+week sample obtained,lachnospiraceae_bacterium_3_1_57faa_ct1,0.9900990198,NA
+lachnospiraceae_bacterium_2_1_58faa,lachnospiraceae_bacterium_2_1_58faa,1,NA
+week sample obtained,lachnospiraceae_bacterium_2_1_58faa,0,NA
+dorea_formicigenerans,dorea_formicigenerans,1,NA
+bilophila_wadsworthia,bilophila_wadsworthia,1,NA
+coprococcus_catus,coprococcus_catus,1,NA
+anaerostipes_hadrus,anaerostipes_hadrus,0.9999937437,NA
+week sample obtained,anaerostipes_hadrus,-0.0000062564,NA
+lachnospiraceae_bacterium_7_1_58faa,lachnospiraceae_bacterium_7_1_58faa,0.9999978738,NA
+week sample obtained,lachnospiraceae_bacterium_7_1_58faa,0.0000021262,NA
+lachnospiraceae_bacterium_5_1_63faa,lachnospiraceae_bacterium_5_1_63faa,0.0099009798,NA
+week sample obtained,lachnospiraceae_bacterium_5_1_63faa,0.9900990198,NA
+clostridiales_bacterium_1_7_47faa,clostridiales_bacterium_1_7_47faa,0.0099009797,NA
+week sample obtained,clostridiales_bacterium_1_7_47faa,0.9900990198,NA
+clostridium_asparagiforme,clostridium_asparagiforme,0.0099009799,NA
+week sample obtained,clostridium_asparagiforme,0.9900990198,NA
+clostridium_bartlettii,clostridium_bartlettii,1,NA
+holdemania_filiformis,holdemania_filiformis,1,NA
+week sample obtained,holdemania_filiformis,0,NA
+anaerotruncus_colihominis,anaerotruncus_colihominis,1,NA
+clostridiaceae_bacterium_jc118,clostridiaceae_bacterium_jc118,0.0099009798,NA
+week sample obtained,clostridiaceae_bacterium_jc118,0.9900990198,NA
+erysipelotrichaceae_bacterium_6_1_45,erysipelotrichaceae_bacterium_6_1_45,0.0099009797,NA
+week sample obtained,erysipelotrichaceae_bacterium_6_1_45,0.9900990198,NA
+holdemania_unclassified,holdemania_unclassified,1,NA
+week sample obtained,holdemania_unclassified,0,NA
+dorea_unclassified,dorea_unclassified,1,NA
+week sample obtained,dorea_unclassified,0,NA
+anaerotruncus_unclassified,anaerotruncus_unclassified,1,NA
+week sample obtained,anaerotruncus_unclassified,0,NA
+eggerthella_unclassified,eggerthella_unclassified,0.00990098,NA
+week sample obtained,eggerthella_unclassified,0.9900990198,NA

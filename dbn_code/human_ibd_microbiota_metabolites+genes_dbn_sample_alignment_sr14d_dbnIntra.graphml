@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+<key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+<graph id="human_ibd_microbiota_metabolites+genes_dbn_sample_alignment_sr14d_dbnIntra" edgedefault="directed">
+<node id="Week sample obtained_t0"/>
+<node id="s__Bacteroides_fragilis_t0"/>
+<node id="s__Bacteroides_ovatus_t0"/>
+<node id="s__Bacteroides_stercoris_t0"/>
+<node id="s__Bacteroides_uniformis_t0"/>
+<node id="s__Bacteroides_vulgatus_t0"/>
+<node id="s__Prevotella_copri_t0"/>
+<node id="s__Faecalibacterium_prausnitzii_t0"/>
+<node id="s__Eubacterium_rectale_t0"/>
+<node id="s__Subdoligranulum_unclassified_t0"/>
+<node id="s__Alistipes_putredinis_t0"/>
+<node id="g__ Superoxide dismutase_t0"/>
+<node id="g__ Bacterial non-heme ferritin_t0"/>
+<node id="g__ Glutamate dehydrogenase (NAD(P)(+))_t0"/>
+<node id="g__ [Formate-C-acetyltransferase]-activating enzyme_t0"/>
+<node id="g__ Phosphopyruvate hydratase_t0"/>
+<node id="g__ Glucose-6-phosphate dehydrogenase (NADP(+))_t0"/>
+<node id="g__ Glutamate dehydrogenase_t0"/>
+<node id="g__ Glutamate decarboxylase_t0"/>
+<node id="g__ 3-hydroxybutyryl-CoA dehydrogenase_t0"/>
+<node id="g__ NADH_t0"/>
+<node id="g__ Cytochrome-c oxidase_t0"/>
+<node id="g__ Glycerol kinase_t0"/>
+<node id="g__ Glucose-1-phosphate adenylyltransferase_t0"/>
+<node id="g__ H(+)-transporting two-sector ATPase_t0"/>
+<node id="g__ Dihydrolipoyl dehydrogenase_t0"/>
+<node id="g__ 16S rRNA (cytosine(1402)-N(4))-methyltransferase_t0"/>
+<node id="g__ Dephospho-CoA kinase_t0"/>
+<node id="g__ 5-formyltetrahydrofolate cyclo-ligase_t0"/>
+<node id="g__ NADH dehydrogenase (quinone)_t0"/>
+<node id="g__ Uridine kinase_t0"/>
+<node id="g__ 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase_t0"/>
+<node id="g__ Phosphatidate cytidylyltransferase_t0"/>
+<node id="g__  ;  Q06996, L_SENDF_t0"/>
+<node id="g__ Beta-lactamase_t0"/>
+<node id="g__ RNA helicase_t0"/>
+<node id="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_t0"/>
+<node id="g__ DNA-directed RNA polymerase_t0"/>
+<node id="g__ DNA helicase_t0"/>
+<node id="g__ Phosphoenolpyruvate carboxykinase (ATP)_t0"/>
+<node id="g__ Glycerate 3-kinase_t0"/>
+<node id="g__ Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)_t0"/>
+<node id="g__ Hydroxylamine reductase_t0"/>
+<node id="g__ Pyridoxal 5'-phosphate synthase_t0"/>
+<node id="g__ PreQ(1) synthase_t0"/>
+<node id="g__ Beta-ketoacyl-[acyl-carrier-protein] synthase II_t0"/>
+<node id="g__ Endopeptidase Clp_t0"/>
+<node id="g__ Aldose 1-epimerase_t0"/>
+<node id="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_t0"/>
+<node id="g__ 3-methyl-2-oxobutanoate hydroxymethyltransferase_t0"/>
+<node id="g__ Transaldolase_t0"/>
+<node id="g__ Peptidylprolyl isomerase_t0"/>
+<node id="g__ Shikimate kinase_t0"/>
+<node id="g__ Peroxiredoxin_t0"/>
+<node id="g__ Ubiquinol oxidase (electrogenic, non H(+)-transporting)_t0"/>
+<node id="g__ Methionyl aminopeptidase_t0"/>
+<node id="g__ Thymidylate synthase_t0"/>
+<node id="g__ Serine O-acetyltransferase_t0"/>
+<node id="g__ 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase_t0"/>
+<node id="g__ Orotidine-5'-phosphate decarboxylase_t0"/>
+<node id="g__ S-ribosylhomocysteine lyase_t0"/>
+<node id="g__ Acetyl-CoA C-acetyltransferase_t0"/>
+<node id="g__ Fe(3+)-transporting ATPase_t0"/>
+<node id="g__ Pyruvate carboxylase_t0"/>
+<node id="g__ Pyridoxine 5'-phosphate synthase_t0"/>
+<node id="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_t0"/>
+<node id="g__ Enoyl-CoA hydratase_t0"/>
+<node id="g__ 3-hydroxyacyl-CoA dehydrogenase_t0"/>
+<node id="g__ 3-hydroxybutyryl-CoA dehydratase_t0"/>
+<node id="g__ Dihydroorotate dehydrogenase (quinone)_t0"/>
+<node id="g__ Ribulose-phosphate 3-epimerase_t0"/>
+<node id="g__ Adenosylmethionine--8-amino-7-oxononanoate transaminase_t0"/>
+<node id="g__ Histidine kinase_t0"/>
+<node id="g__ Phosphoglycerate kinase_t0"/>
+<node id="g__ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase_t0"/>
+<node id="g__ L-lactate dehydrogenase_t0"/>
+<node id="g__ Ribulose-bisphosphate carboxylase_t0"/>
+<node id="g__ Fructose-bisphosphate aldolase_t0"/>
+<node id="g__ 3-hydroxyacyl-[acyl-carrier-protein] dehydratase_t0"/>
+<node id="g__ L-serine ammonia-lyase_t0"/>
+<node id="g__ Aspartate ammonia-lyase_t0"/>
+<node id="g__ Triose-phosphate isomerase_t0"/>
+<node id="g__ Methylaspartate mutase_t0"/>
+<node id="g__ Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)_t0"/>
+<node id="m__NH4_C54:5 TAG_t0"/>
+<node id="m__NH4_C54:4 TAG_t0"/>
+<node id="m__NH4_C54:3 TAG_t0"/>
+<node id="m__valine_t0"/>
+<node id="m__isoleucine_t0"/>
+<node id="m__spermidine_t0"/>
+<node id="m__2-deoxyadenosine_t0"/>
+<node id="m__methylimidazole acetic acid_t0"/>
+<node id="m__phytosphingosine_t0"/>
+<node id="m__linoleate_t0"/>
+<node id="m__oleate_t0"/>
+<node id="m__cholate_t0"/>
+<node id="m__NH4_C36:4 DAG_t0"/>
+<node id="m__oxalate_t0"/>
+<node id="m__urate_t0"/>
+<node id="m__aminoisobutyric acid/GABA_t0"/>
+<node id="m__butyrobetaine_t0"/>
+<node id="m__NH4_C54:6 TAG_t0"/>
+<node id="m__citrulline_t0"/>
+<node id="m__arachidonate_t0"/>
+<node id="m__NH4_C36:3 DAG_t0"/>
+<node id="m__NH4_C52:3 TAG_t0"/>
+<node id="m__NH4_C52:2 TAG_t0"/>
+<node id="m__atenolol_t0"/>
+<node id="m__pentadecanoate_t0"/>
+<node id="m__deoxycholate_t0"/>
+<node id="m__NH4_C36:2 DAG_t0"/>
+<node id="m__metformin_t0"/>
+<node id="m__lithocholate_t0"/>
+<node id="m__sphingosine-isomer2_t0"/>
+<node id="m__alanylalanine_t0"/>
+<node id="m__taurocholate_t0"/>
+<node id="m__NH4_C52:4 TAG_t0"/>
+<node id="m__C16:0 LPC_t0"/>
+<node id="m__C18:0 LPC_t0"/>
+<node id="m__phenyllactate_t0"/>
+<node id="m__C54:3 TAG_t0"/>
+<node id="m__palmitate_t0"/>
+<node id="m__taurochenodeoxycholate_t0"/>
+<node id="m__glycochenodeoxycholate_t0"/>
+<node id="m__glycocholate_t0"/>
+<node id="m__alloisoleucine_t0"/>
+<node id="m__threosphingosine_t0"/>
+<node id="m__NH4_C34:2 DAG_t0"/>
+<node id="m__NH4_C34:1 DAG_t0"/>
+<node id="m__alpha-linolenate_t0"/>
+<node id="m__dodecanoate_t0"/>
+<node id="m__C36:3 DAG_t0"/>
+<node id="m__sphinganine_t0"/>
+<node id="m__C54:5 TAG_t0"/>
+<node id="m__C54:4 TAG_t0"/>
+<node id="m__oleanate_t0"/>
+<node id="m__adenosine_t0"/>
+<node id="Week sample obtained_tn"/>
+<node id="s__Bacteroides_fragilis_tn"/>
+<node id="s__Bacteroides_ovatus_tn"/>
+<node id="s__Bacteroides_stercoris_tn"/>
+<node id="s__Bacteroides_uniformis_tn"/>
+<node id="s__Bacteroides_vulgatus_tn"/>
+<node id="s__Prevotella_copri_tn"/>
+<node id="s__Faecalibacterium_prausnitzii_tn"/>
+<node id="s__Eubacterium_rectale_tn"/>
+<node id="s__Subdoligranulum_unclassified_tn"/>
+<node id="s__Alistipes_putredinis_tn"/>
+<node id="g__ Superoxide dismutase_tn"/>
+<node id="g__ Bacterial non-heme ferritin_tn"/>
+<node id="g__ Glutamate dehydrogenase (NAD(P)(+))_tn"/>
+<node id="g__ [Formate-C-acetyltransferase]-activating enzyme_tn"/>
+<node id="g__ Phosphopyruvate hydratase_tn"/>
+<node id="g__ Glucose-6-phosphate dehydrogenase (NADP(+))_tn"/>
+<node id="g__ Glutamate dehydrogenase_tn"/>
+<node id="g__ Glutamate decarboxylase_tn"/>
+<node id="g__ 3-hydroxybutyryl-CoA dehydrogenase_tn"/>
+<node id="g__ NADH_tn"/>
+<node id="g__ Cytochrome-c oxidase_tn"/>
+<node id="g__ Glycerol kinase_tn"/>
+<node id="g__ Glucose-1-phosphate adenylyltransferase_tn"/>
+<node id="g__ H(+)-transporting two-sector ATPase_tn"/>
+<node id="g__ Dihydrolipoyl dehydrogenase_tn"/>
+<node id="g__ 16S rRNA (cytosine(1402)-N(4))-methyltransferase_tn"/>
+<node id="g__ Dephospho-CoA kinase_tn"/>
+<node id="g__ 5-formyltetrahydrofolate cyclo-ligase_tn"/>
+<node id="g__ NADH dehydrogenase (quinone)_tn"/>
+<node id="g__ Uridine kinase_tn"/>
+<node id="g__ 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase_tn"/>
+<node id="g__ Phosphatidate cytidylyltransferase_tn"/>
+<node id="g__  ;  Q06996, L_SENDF_tn"/>
+<node id="g__ Beta-lactamase_tn"/>
+<node id="g__ RNA helicase_tn"/>
+<node id="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_tn"/>
+<node id="g__ DNA-directed RNA polymerase_tn"/>
+<node id="g__ DNA helicase_tn"/>
+<node id="g__ Phosphoenolpyruvate carboxykinase (ATP)_tn"/>
+<node id="g__ Glycerate 3-kinase_tn"/>
+<node id="g__ Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)_tn"/>
+<node id="g__ Hydroxylamine reductase_tn"/>
+<node id="g__ Pyridoxal 5'-phosphate synthase_tn"/>
+<node id="g__ PreQ(1) synthase_tn"/>
+<node id="g__ Beta-ketoacyl-[acyl-carrier-protein] synthase II_tn"/>
+<node id="g__ Endopeptidase Clp_tn"/>
+<node id="g__ Aldose 1-epimerase_tn"/>
+<node id="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn"/>
+<node id="g__ 3-methyl-2-oxobutanoate hydroxymethyltransferase_tn"/>
+<node id="g__ Transaldolase_tn"/>
+<node id="g__ Peptidylprolyl isomerase_tn"/>
+<node id="g__ Shikimate kinase_tn"/>
+<node id="g__ Peroxiredoxin_tn"/>
+<node id="g__ Ubiquinol oxidase (electrogenic, non H(+)-transporting)_tn"/>
+<node id="g__ Methionyl aminopeptidase_tn"/>
+<node id="g__ Thymidylate synthase_tn"/>
+<node id="g__ Serine O-acetyltransferase_tn"/>
+<node id="g__ 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase_tn"/>
+<node id="g__ Orotidine-5'-phosphate decarboxylase_tn"/>
+<node id="g__ S-ribosylhomocysteine lyase_tn"/>
+<node id="g__ Acetyl-CoA C-acetyltransferase_tn"/>
+<node id="g__ Fe(3+)-transporting ATPase_tn"/>
+<node id="g__ Pyruvate carboxylase_tn"/>
+<node id="g__ Pyridoxine 5'-phosphate synthase_tn"/>
+<node id="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_tn"/>
+<node id="g__ Enoyl-CoA hydratase_tn"/>
+<node id="g__ 3-hydroxyacyl-CoA dehydrogenase_tn"/>
+<node id="g__ 3-hydroxybutyryl-CoA dehydratase_tn"/>
+<node id="g__ Dihydroorotate dehydrogenase (quinone)_tn"/>
+<node id="g__ Ribulose-phosphate 3-epimerase_tn"/>
+<node id="g__ Adenosylmethionine--8-amino-7-oxononanoate transaminase_tn"/>
+<node id="g__ Histidine kinase_tn"/>
+<node id="g__ Phosphoglycerate kinase_tn"/>
+<node id="g__ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase_tn"/>
+<node id="g__ L-lactate dehydrogenase_tn"/>
+<node id="g__ Ribulose-bisphosphate carboxylase_tn"/>
+<node id="g__ Fructose-bisphosphate aldolase_tn"/>
+<node id="g__ 3-hydroxyacyl-[acyl-carrier-protein] dehydratase_tn"/>
+<node id="g__ L-serine ammonia-lyase_tn"/>
+<node id="g__ Aspartate ammonia-lyase_tn"/>
+<node id="g__ Triose-phosphate isomerase_tn"/>
+<node id="g__ Methylaspartate mutase_tn"/>
+<node id="g__ Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)_tn"/>
+<node id="m__NH4_C54:5 TAG_tn"/>
+<node id="m__NH4_C54:4 TAG_tn"/>
+<node id="m__NH4_C54:3 TAG_tn"/>
+<node id="m__valine_tn"/>
+<node id="m__isoleucine_tn"/>
+<node id="m__spermidine_tn"/>
+<node id="m__2-deoxyadenosine_tn"/>
+<node id="m__methylimidazole acetic acid_tn"/>
+<node id="m__phytosphingosine_tn"/>
+<node id="m__linoleate_tn"/>
+<node id="m__oleate_tn"/>
+<node id="m__cholate_tn"/>
+<node id="m__NH4_C36:4 DAG_tn"/>
+<node id="m__oxalate_tn"/>
+<node id="m__urate_tn"/>
+<node id="m__aminoisobutyric acid/GABA_tn"/>
+<node id="m__butyrobetaine_tn"/>
+<node id="m__NH4_C54:6 TAG_tn"/>
+<node id="m__citrulline_tn"/>
+<node id="m__arachidonate_tn"/>
+<node id="m__NH4_C36:3 DAG_tn"/>
+<node id="m__NH4_C52:3 TAG_tn"/>
+<node id="m__NH4_C52:2 TAG_tn"/>
+<node id="m__atenolol_tn"/>
+<node id="m__pentadecanoate_tn"/>
+<node id="m__deoxycholate_tn"/>
+<node id="m__NH4_C36:2 DAG_tn"/>
+<node id="m__metformin_tn"/>
+<node id="m__lithocholate_tn"/>
+<node id="m__sphingosine-isomer2_tn"/>
+<node id="m__alanylalanine_tn"/>
+<node id="m__taurocholate_tn"/>
+<node id="m__NH4_C52:4 TAG_tn"/>
+<node id="m__C16:0 LPC_tn"/>
+<node id="m__C18:0 LPC_tn"/>
+<node id="m__phenyllactate_tn"/>
+<node id="m__C54:3 TAG_tn"/>
+<node id="m__palmitate_tn"/>
+<node id="m__taurochenodeoxycholate_tn"/>
+<node id="m__glycochenodeoxycholate_tn"/>
+<node id="m__glycocholate_tn"/>
+<node id="m__alloisoleucine_tn"/>
+<node id="m__threosphingosine_tn"/>
+<node id="m__NH4_C34:2 DAG_tn"/>
+<node id="m__NH4_C34:1 DAG_tn"/>
+<node id="m__alpha-linolenate_tn"/>
+<node id="m__dodecanoate_tn"/>
+<node id="m__C36:3 DAG_tn"/>
+<node id="m__sphinganine_tn"/>
+<node id="m__C54:5 TAG_tn"/>
+<node id="m__C54:4 TAG_tn"/>
+<node id="m__oleanate_tn"/>
+<node id="m__adenosine_tn"/>
+<edge id="e1" source="s__Bacteroides_fragilis_t0" target="s__Bacteroides_fragilis_tn">
+<data key="key_weight">0.787263</data>
+</edge>
+<edge id="e2" source="s__Bacteroides_vulgatus_t0" target="s__Bacteroides_fragilis_tn">
+<data key="key_weight">0.045879</data>
+</edge>
+<edge id="e3" source="s__Faecalibacterium_prausnitzii_t0" target="s__Bacteroides_fragilis_tn">
+<data key="key_weight">0.052530</data>
+</edge>
+<edge id="e4" source="s__Bacteroides_ovatus_t0" target="s__Bacteroides_ovatus_tn">
+<data key="key_weight">0.872868</data>
+</edge>
+<edge id="e5" source="s__Bacteroides_stercoris_t0" target="s__Bacteroides_stercoris_tn">
+<data key="key_weight">0.908117</data>
+</edge>
+<edge id="e6" source="s__Bacteroides_uniformis_t0" target="s__Bacteroides_uniformis_tn">
+<data key="key_weight">0.733613</data>
+</edge>
+<edge id="e7" source="s__Faecalibacterium_prausnitzii_t0" target="s__Bacteroides_uniformis_tn">
+<data key="key_weight">0.076048</data>
+</edge>
+<edge id="e8" source="s__Faecalibacterium_prausnitzii_tn" target="s__Bacteroides_uniformis_tn">
+<data key="key_weight">-0.107785</data>
+</edge>
+<edge id="e9" source="s__Bacteroides_vulgatus_t0" target="s__Bacteroides_vulgatus_tn">
+<data key="key_weight">0.817824</data>
+</edge>
+<edge id="e10" source="s__Prevotella_copri_t0" target="s__Prevotella_copri_tn">
+<data key="key_weight">0.848176</data>
+</edge>
+<edge id="e11" source="s__Bacteroides_uniformis_tn" target="s__Prevotella_copri_tn">
+<data key="key_weight">-0.064861</data>
+</edge>
+<edge id="e12" source="s__Eubacterium_rectale_tn" target="s__Prevotella_copri_tn">
+<data key="key_weight">-0.084683</data>
+</edge>
+<edge id="e13" source="s__Bacteroides_fragilis_t0" target="s__Faecalibacterium_prausnitzii_tn">
+<data key="key_weight">0.223415</data>
+</edge>
+<edge id="e14" source="s__Faecalibacterium_prausnitzii_t0" target="s__Faecalibacterium_prausnitzii_tn">
+<data key="key_weight">0.794747</data>
+</edge>
+<edge id="e15" source="s__Bacteroides_fragilis_tn" target="s__Faecalibacterium_prausnitzii_tn">
+<data key="key_weight">-0.295031</data>
+</edge>
+<edge id="e16" source="s__Faecalibacterium_prausnitzii_t0" target="s__Eubacterium_rectale_tn">
+<data key="key_weight">0.041713</data>
+</edge>
+<edge id="e17" source="s__Eubacterium_rectale_t0" target="s__Eubacterium_rectale_tn">
+<data key="key_weight">0.696066</data>
+</edge>
+<edge id="e18" source="s__Subdoligranulum_unclassified_t0" target="s__Subdoligranulum_unclassified_tn">
+<data key="key_weight">0.863703</data>
+</edge>
+<edge id="e19" source="s__Alistipes_putredinis_t0" target="s__Alistipes_putredinis_tn">
+<data key="key_weight">0.841184</data>
+</edge>
+<edge id="e20" source="g__ Superoxide dismutase_t0" target="g__ Superoxide dismutase_tn">
+<data key="key_weight">0.588209</data>
+</edge>
+<edge id="e21" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_t0" target="g__ Superoxide dismutase_tn">
+<data key="key_weight">1.582449</data>
+</edge>
+<edge id="e22" source="g__ H(+)-transporting two-sector ATPase_tn" target="g__ Superoxide dismutase_tn">
+<data key="key_weight">-0.722259</data>
+</edge>
+<edge id="e23" source="g__ Bacterial non-heme ferritin_t0" target="g__ Bacterial non-heme ferritin_tn">
+<data key="key_weight">0.760376</data>
+</edge>
+<edge id="e24" source="g__ [Formate-C-acetyltransferase]-activating enzyme_tn" target="g__ Bacterial non-heme ferritin_tn">
+<data key="key_weight">0.151089</data>
+</edge>
+<edge id="e25" source="g__ Pyruvate carboxylase_tn" target="g__ Bacterial non-heme ferritin_tn">
+<data key="key_weight">0.498570</data>
+</edge>
+<edge id="e26" source="g__ Superoxide dismutase_t0" target="g__ Glutamate dehydrogenase (NAD(P)(+))_tn">
+<data key="key_weight">0.027459</data>
+</edge>
+<edge id="e27" source="g__ Glutamate dehydrogenase (NAD(P)(+))_t0" target="g__ Glutamate dehydrogenase (NAD(P)(+))_tn">
+<data key="key_weight">0.709358</data>
+</edge>
+<edge id="e28" source="g__ Superoxide dismutase_tn" target="g__ Glutamate dehydrogenase (NAD(P)(+))_tn">
+<data key="key_weight">-0.022588</data>
+</edge>
+<edge id="e29" source="g__ [Formate-C-acetyltransferase]-activating enzyme_t0" target="g__ [Formate-C-acetyltransferase]-activating enzyme_tn">
+<data key="key_weight">0.807955</data>
+</edge>
+<edge id="e30" source="g__ Superoxide dismutase_tn" target="g__ [Formate-C-acetyltransferase]-activating enzyme_tn">
+<data key="key_weight">0.027167</data>
+</edge>
+<edge id="e31" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn" target="g__ [Formate-C-acetyltransferase]-activating enzyme_tn">
+<data key="key_weight">-0.102393</data>
+</edge>
+<edge id="e32" source="g__ Phosphopyruvate hydratase_t0" target="g__ Phosphopyruvate hydratase_tn">
+<data key="key_weight">0.625201</data>
+</edge>
+<edge id="e33" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_t0" target="g__ Phosphopyruvate hydratase_tn">
+<data key="key_weight">-1.725944</data>
+</edge>
+<edge id="e34" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn" target="g__ Phosphopyruvate hydratase_tn">
+<data key="key_weight">2.474894</data>
+</edge>
+<edge id="e35" source="g__ Glucose-6-phosphate dehydrogenase (NADP(+))_t0" target="g__ Glucose-6-phosphate dehydrogenase (NADP(+))_tn">
+<data key="key_weight">0.655138</data>
+</edge>
+<edge id="e36" source="g__ Glutamate decarboxylase_t0" target="g__ Glucose-6-phosphate dehydrogenase (NADP(+))_tn">
+<data key="key_weight">0.272342</data>
+</edge>
+<edge id="e37" source="g__ Phosphoglycerate kinase_tn" target="g__ Glucose-6-phosphate dehydrogenase (NADP(+))_tn">
+<data key="key_weight">-0.428471</data>
+</edge>
+<edge id="e38" source="g__ Glutamate dehydrogenase_t0" target="g__ Glutamate dehydrogenase_tn">
+<data key="key_weight">0.922284</data>
+</edge>
+<edge id="e39" source="g__ Phosphatidate cytidylyltransferase_t0" target="g__ Glutamate dehydrogenase_tn">
+<data key="key_weight">-0.474056</data>
+</edge>
+<edge id="e40" source="g__ Phosphatidate cytidylyltransferase_tn" target="g__ Glutamate dehydrogenase_tn">
+<data key="key_weight">0.615960</data>
+</edge>
+<edge id="e41" source="g__ Glutamate decarboxylase_t0" target="g__ Glutamate decarboxylase_tn">
+<data key="key_weight">0.958077</data>
+</edge>
+<edge id="e42" source="g__ Pyridoxal 5'-phosphate synthase_t0" target="g__ Glutamate decarboxylase_tn">
+<data key="key_weight">-0.165728</data>
+</edge>
+<edge id="e43" source="g__ Pyridoxal 5'-phosphate synthase_tn" target="g__ Glutamate decarboxylase_tn">
+<data key="key_weight">0.114758</data>
+</edge>
+<edge id="e44" source="g__ 3-hydroxybutyryl-CoA dehydrogenase_t0" target="g__ 3-hydroxybutyryl-CoA dehydrogenase_tn">
+<data key="key_weight">0.902717</data>
+</edge>
+<edge id="e45" source="g__ 3-hydroxyacyl-CoA dehydrogenase_t0" target="g__ 3-hydroxybutyryl-CoA dehydrogenase_tn">
+<data key="key_weight">-0.930483</data>
+</edge>
+<edge id="e46" source="g__ 3-hydroxyacyl-CoA dehydrogenase_tn" target="g__ 3-hydroxybutyryl-CoA dehydrogenase_tn">
+<data key="key_weight">1.027712</data>
+</edge>
+<edge id="e47" source="g__ NADH_t0" target="g__ NADH_tn">
+<data key="key_weight">0.845491</data>
+</edge>
+<edge id="e48" source="g__ L-lactate dehydrogenase_t0" target="g__ NADH_tn">
+<data key="key_weight">-0.413963</data>
+</edge>
+<edge id="e49" source="g__ L-lactate dehydrogenase_tn" target="g__ NADH_tn">
+<data key="key_weight">0.542219</data>
+</edge>
+<edge id="e50" source="g__ Cytochrome-c oxidase_t0" target="g__ Cytochrome-c oxidase_tn">
+<data key="key_weight">0.925046</data>
+</edge>
+<edge id="e51" source="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_t0" target="g__ Cytochrome-c oxidase_tn">
+<data key="key_weight">-0.298888</data>
+</edge>
+<edge id="e52" source="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_tn" target="g__ Cytochrome-c oxidase_tn">
+<data key="key_weight">0.323630</data>
+</edge>
+<edge id="e53" source="g__ Glycerol kinase_t0" target="g__ Glycerol kinase_tn">
+<data key="key_weight">0.951546</data>
+</edge>
+<edge id="e54" source="g__ 5-formyltetrahydrofolate cyclo-ligase_tn" target="g__ Glycerol kinase_tn">
+<data key="key_weight">0.023942</data>
+</edge>
+<edge id="e55" source="g__ Dihydroorotate dehydrogenase (quinone)_tn" target="g__ Glycerol kinase_tn">
+<data key="key_weight">0.046024</data>
+</edge>
+<edge id="e56" source="g__ Glucose-1-phosphate adenylyltransferase_t0" target="g__ Glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">0.922979</data>
+</edge>
+<edge id="e57" source="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_t0" target="g__ Glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">0.047963</data>
+</edge>
+<edge id="e58" source="g__ Fructose-bisphosphate aldolase_tn" target="g__ Glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">0.063963</data>
+</edge>
+<edge id="e59" source="g__ H(+)-transporting two-sector ATPase_t0" target="g__ H(+)-transporting two-sector ATPase_tn">
+<data key="key_weight">0.921673</data>
+</edge>
+<edge id="e60" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_t0" target="g__ H(+)-transporting two-sector ATPase_tn">
+<data key="key_weight">-0.358467</data>
+</edge>
+<edge id="e61" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn" target="g__ H(+)-transporting two-sector ATPase_tn">
+<data key="key_weight">0.402221</data>
+</edge>
+<edge id="e62" source="g__ Dihydrolipoyl dehydrogenase_t0" target="g__ Dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">0.888329</data>
+</edge>
+<edge id="e63" source="g__ 5-formyltetrahydrofolate cyclo-ligase_t0" target="g__ Dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">-0.286642</data>
+</edge>
+<edge id="e64" source="g__ 5-formyltetrahydrofolate cyclo-ligase_tn" target="g__ Dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">0.330962</data>
+</edge>
+<edge id="e65" source="g__ 16S rRNA (cytosine(1402)-N(4))-methyltransferase_t0" target="g__ 16S rRNA (cytosine(1402)-N(4))-methyltransferase_tn">
+<data key="key_weight">0.836086</data>
+</edge>
+<edge id="e66" source="g__ Pyruvate carboxylase_t0" target="g__ 16S rRNA (cytosine(1402)-N(4))-methyltransferase_tn">
+<data key="key_weight">0.194869</data>
+</edge>
+<edge id="e67" source="g__ 5-formyltetrahydrofolate cyclo-ligase_tn" target="g__ 16S rRNA (cytosine(1402)-N(4))-methyltransferase_tn">
+<data key="key_weight">0.192930</data>
+</edge>
+<edge id="e68" source="g__ Dephospho-CoA kinase_t0" target="g__ Dephospho-CoA kinase_tn">
+<data key="key_weight">0.724306</data>
+</edge>
+<edge id="e69" source="g__ [Formate-C-acetyltransferase]-activating enzyme_tn" target="g__ Dephospho-CoA kinase_tn">
+<data key="key_weight">0.047979</data>
+</edge>
+<edge id="e70" source="g__ 5-formyltetrahydrofolate cyclo-ligase_tn" target="g__ Dephospho-CoA kinase_tn">
+<data key="key_weight">0.165984</data>
+</edge>
+<edge id="e71" source="g__ 5-formyltetrahydrofolate cyclo-ligase_t0" target="g__ 5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">1.398476</data>
+</edge>
+<edge id="e72" source="g__ Phosphatidate cytidylyltransferase_t0" target="g__ 5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.043714</data>
+</edge>
+<edge id="e73" source="g__ Superoxide dismutase_tn" target="g__ 5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.007051</data>
+</edge>
+<edge id="e74" source="g__ NADH dehydrogenase (quinone)_t0" target="g__ NADH dehydrogenase (quinone)_tn">
+<data key="key_weight">0.862955</data>
+</edge>
+<edge id="e75" source="g__ PreQ(1) synthase_tn" target="g__ NADH dehydrogenase (quinone)_tn">
+<data key="key_weight">0.119467</data>
+</edge>
+<edge id="e76" source="g__ L-lactate dehydrogenase_tn" target="g__ NADH dehydrogenase (quinone)_tn">
+<data key="key_weight">0.188019</data>
+</edge>
+<edge id="e77" source="g__ NADH dehydrogenase (quinone)_t0" target="g__ Uridine kinase_tn">
+<data key="key_weight">-0.122405</data>
+</edge>
+<edge id="e78" source="g__ Uridine kinase_t0" target="g__ Uridine kinase_tn">
+<data key="key_weight">0.790563</data>
+</edge>
+<edge id="e79" source="g__ Aldose 1-epimerase_tn" target="g__ Uridine kinase_tn">
+<data key="key_weight">0.243324</data>
+</edge>
+<edge id="e80" source="g__ Uridine kinase_t0" target="g__ 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase_tn">
+<data key="key_weight">0.021652</data>
+</edge>
+<edge id="e81" source="g__ 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase_t0" target="g__ 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase_tn">
+<data key="key_weight">0.945960</data>
+</edge>
+<edge id="e82" source="g__ 5-formyltetrahydrofolate cyclo-ligase_tn" target="g__ 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase_tn">
+<data key="key_weight">0.077935</data>
+</edge>
+<edge id="e83" source="g__ Phosphatidate cytidylyltransferase_t0" target="g__ Phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">0.872077</data>
+</edge>
+<edge id="e84" source="g__ Thymidylate synthase_t0" target="g__ Phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">-0.762362</data>
+</edge>
+<edge id="e85" source="g__ Thymidylate synthase_tn" target="g__ Phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">0.940333</data>
+</edge>
+<edge id="e86" source="g__  ;  Q06996, L_SENDF_t0" target="g__  ;  Q06996, L_SENDF_tn">
+<data key="key_weight">0.535676</data>
+</edge>
+<edge id="e87" source="g__ RNA helicase_t0" target="g__  ;  Q06996, L_SENDF_tn">
+<data key="key_weight">-0.495952</data>
+</edge>
+<edge id="e88" source="g__ RNA helicase_tn" target="g__  ;  Q06996, L_SENDF_tn">
+<data key="key_weight">0.968619</data>
+</edge>
+<edge id="e89" source="g__ [Formate-C-acetyltransferase]-activating enzyme_t0" target="g__ Beta-lactamase_tn">
+<data key="key_weight">-0.084083</data>
+</edge>
+<edge id="e90" source="g__ Beta-lactamase_t0" target="g__ Beta-lactamase_tn">
+<data key="key_weight">0.980007</data>
+</edge>
+<edge id="e91" source="g__ [Formate-C-acetyltransferase]-activating enzyme_tn" target="g__ Beta-lactamase_tn">
+<data key="key_weight">0.070146</data>
+</edge>
+<edge id="e92" source="g__ RNA helicase_t0" target="g__ RNA helicase_tn">
+<data key="key_weight">0.938673</data>
+</edge>
+<edge id="e93" source="g__ Ribulose-bisphosphate carboxylase_t0" target="g__ RNA helicase_tn">
+<data key="key_weight">-0.715851</data>
+</edge>
+<edge id="e94" source="g__ Peptidylprolyl isomerase_tn" target="g__ RNA helicase_tn">
+<data key="key_weight">-0.180964</data>
+</edge>
+<edge id="e95" source="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_t0" target="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_tn">
+<data key="key_weight">0.876101</data>
+</edge>
+<edge id="e96" source="g__ Fe(3+)-transporting ATPase_t0" target="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_tn">
+<data key="key_weight">-0.356336</data>
+</edge>
+<edge id="e97" source="g__ Fructose-bisphosphate aldolase_tn" target="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_tn">
+<data key="key_weight">0.192268</data>
+</edge>
+<edge id="e98" source="g__ DNA-directed RNA polymerase_t0" target="g__ DNA-directed RNA polymerase_tn">
+<data key="key_weight">0.911571</data>
+</edge>
+<edge id="e99" source="g__ Beta-ketoacyl-[acyl-carrier-protein] synthase II_t0" target="g__ DNA-directed RNA polymerase_tn">
+<data key="key_weight">-0.485685</data>
+</edge>
+<edge id="e100" source="g__ Beta-ketoacyl-[acyl-carrier-protein] synthase II_tn" target="g__ DNA-directed RNA polymerase_tn">
+<data key="key_weight">0.555882</data>
+</edge>
+<edge id="e101" source="g__ DNA helicase_t0" target="g__ DNA helicase_tn">
+<data key="key_weight">0.525726</data>
+</edge>
+<edge id="e102" source="g__ Ribulose-phosphate 3-epimerase_tn" target="g__ DNA helicase_tn">
+<data key="key_weight">0.167590</data>
+</edge>
+<edge id="e103" source="g__ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase_tn" target="g__ DNA helicase_tn">
+<data key="key_weight">0.714312</data>
+</edge>
+<edge id="e104" source="g__ Phosphoenolpyruvate carboxykinase (ATP)_t0" target="g__ Phosphoenolpyruvate carboxykinase (ATP)_tn">
+<data key="key_weight">0.863463</data>
+</edge>
+<edge id="e105" source="g__ NADH dehydrogenase (quinone)_tn" target="g__ Phosphoenolpyruvate carboxykinase (ATP)_tn">
+<data key="key_weight">0.124646</data>
+</edge>
+<edge id="e106" source="g__ Aldose 1-epimerase_tn" target="g__ Phosphoenolpyruvate carboxykinase (ATP)_tn">
+<data key="key_weight">0.061475</data>
+</edge>
+<edge id="e107" source="g__ Phosphatidate cytidylyltransferase_t0" target="g__ Glycerate 3-kinase_tn">
+<data key="key_weight">-0.169189</data>
+</edge>
+<edge id="e108" source="g__ Glycerate 3-kinase_t0" target="g__ Glycerate 3-kinase_tn">
+<data key="key_weight">0.906201</data>
+</edge>
+<edge id="e109" source="g__ Phosphatidate cytidylyltransferase_tn" target="g__ Glycerate 3-kinase_tn">
+<data key="key_weight">0.101162</data>
+</edge>
+<edge id="e110" source="g__ Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)_t0" target="g__ Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)_tn">
+<data key="key_weight">0.987394</data>
+</edge>
+<edge id="e111" source="g__ S-ribosylhomocysteine lyase_t0" target="g__ Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)_tn">
+<data key="key_weight">1.256649</data>
+</edge>
+<edge id="e112" source="g__ S-ribosylhomocysteine lyase_tn" target="g__ Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)_tn">
+<data key="key_weight">-1.060305</data>
+</edge>
+<edge id="e113" source="g__ Glutamate dehydrogenase_t0" target="g__ Hydroxylamine reductase_tn">
+<data key="key_weight">-0.002293</data>
+</edge>
+<edge id="e114" source="g__ Hydroxylamine reductase_t0" target="g__ Hydroxylamine reductase_tn">
+<data key="key_weight">0.978949</data>
+</edge>
+<edge id="e115" source="g__ Peptidylprolyl isomerase_tn" target="g__ Hydroxylamine reductase_tn">
+<data key="key_weight">0.003871</data>
+</edge>
+<edge id="e116" source="g__ Pyridoxal 5'-phosphate synthase_t0" target="g__ Pyridoxal 5'-phosphate synthase_tn">
+<data key="key_weight">0.756950</data>
+</edge>
+<edge id="e117" source="g__ 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase_t0" target="g__ Pyridoxal 5'-phosphate synthase_tn">
+<data key="key_weight">0.853528</data>
+</edge>
+<edge id="e118" source="g__ Orotidine-5'-phosphate decarboxylase_t0" target="g__ Pyridoxal 5'-phosphate synthase_tn">
+<data key="key_weight">-0.763964</data>
+</edge>
+<edge id="e119" source="g__ PreQ(1) synthase_t0" target="g__ PreQ(1) synthase_tn">
+<data key="key_weight">0.842883</data>
+</edge>
+<edge id="e120" source="g__ Endopeptidase Clp_t0" target="g__ PreQ(1) synthase_tn">
+<data key="key_weight">0.097312</data>
+</edge>
+<edge id="e121" source="g__ Phosphoglycerate kinase_t0" target="g__ PreQ(1) synthase_tn">
+<data key="key_weight">0.065294</data>
+</edge>
+<edge id="e122" source="g__ Uridine kinase_t0" target="g__ Beta-ketoacyl-[acyl-carrier-protein] synthase II_tn">
+<data key="key_weight">-0.039432</data>
+</edge>
+<edge id="e123" source="g__ Beta-ketoacyl-[acyl-carrier-protein] synthase II_t0" target="g__ Beta-ketoacyl-[acyl-carrier-protein] synthase II_tn">
+<data key="key_weight">1.047469</data>
+</edge>
+<edge id="e124" source="g__ PreQ(1) synthase_tn" target="g__ Beta-ketoacyl-[acyl-carrier-protein] synthase II_tn">
+<data key="key_weight">0.227756</data>
+</edge>
+<edge id="e125" source="g__ PreQ(1) synthase_t0" target="g__ Endopeptidase Clp_tn">
+<data key="key_weight">0.328344</data>
+</edge>
+<edge id="e126" source="g__ Endopeptidase Clp_t0" target="g__ Endopeptidase Clp_tn">
+<data key="key_weight">0.972097</data>
+</edge>
+<edge id="e127" source="g__ PreQ(1) synthase_tn" target="g__ Endopeptidase Clp_tn">
+<data key="key_weight">-0.439029</data>
+</edge>
+<edge id="e128" source="g__ Aldose 1-epimerase_t0" target="g__ Aldose 1-epimerase_tn">
+<data key="key_weight">0.924063</data>
+</edge>
+<edge id="e129" source="g__ PreQ(1) synthase_tn" target="g__ Aldose 1-epimerase_tn">
+<data key="key_weight">-0.162731</data>
+</edge>
+<edge id="e130" source="g__ Endopeptidase Clp_tn" target="g__ Aldose 1-epimerase_tn">
+<data key="key_weight">0.197402</data>
+</edge>
+<edge id="e131" source="g__ Glutamate dehydrogenase (NAD(P)(+))_t0" target="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn">
+<data key="key_weight">0.123072</data>
+</edge>
+<edge id="e132" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_t0" target="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn">
+<data key="key_weight">1.019802</data>
+</edge>
+<edge id="e133" source="g__ Transaldolase_t0" target="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn">
+<data key="key_weight">-0.096208</data>
+</edge>
+<edge id="e134" source="g__ 3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="g__ 3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">0.872748</data>
+</edge>
+<edge id="e135" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn" target="g__ 3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">0.064168</data>
+</edge>
+<edge id="e136" source="g__ Adenosylmethionine--8-amino-7-oxononanoate transaminase_tn" target="g__ 3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">0.259861</data>
+</edge>
+<edge id="e137" source="g__ Phosphopyruvate hydratase_t0" target="g__ Transaldolase_tn">
+<data key="key_weight">-0.035677</data>
+</edge>
+<edge id="e138" source="g__ Transaldolase_t0" target="g__ Transaldolase_tn">
+<data key="key_weight">0.854324</data>
+</edge>
+<edge id="e139" source="g__ Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)_tn" target="g__ Transaldolase_tn">
+<data key="key_weight">0.160445</data>
+</edge>
+<edge id="e140" source="g__ Superoxide dismutase_t0" target="g__ Peptidylprolyl isomerase_tn">
+<data key="key_weight">0.028343</data>
+</edge>
+<edge id="e141" source="g__ Peptidylprolyl isomerase_t0" target="g__ Peptidylprolyl isomerase_tn">
+<data key="key_weight">0.963323</data>
+</edge>
+<edge id="e142" source="g__ Superoxide dismutase_tn" target="g__ Peptidylprolyl isomerase_tn">
+<data key="key_weight">-0.022115</data>
+</edge>
+<edge id="e143" source="g__ Glutamate dehydrogenase (NAD(P)(+))_t0" target="g__ Shikimate kinase_tn">
+<data key="key_weight">-0.222701</data>
+</edge>
+<edge id="e144" source="g__ Shikimate kinase_t0" target="g__ Shikimate kinase_tn">
+<data key="key_weight">0.982041</data>
+</edge>
+<edge id="e145" source="g__ Glutamate dehydrogenase (NAD(P)(+))_tn" target="g__ Shikimate kinase_tn">
+<data key="key_weight">0.376615</data>
+</edge>
+<edge id="e146" source="g__ Peroxiredoxin_t0" target="g__ Peroxiredoxin_tn">
+<data key="key_weight">0.940503</data>
+</edge>
+<edge id="e147" source="g__ L-lactate dehydrogenase_t0" target="g__ Peroxiredoxin_tn">
+<data key="key_weight">-0.768263</data>
+</edge>
+<edge id="e148" source="g__ L-lactate dehydrogenase_tn" target="g__ Peroxiredoxin_tn">
+<data key="key_weight">0.995604</data>
+</edge>
+<edge id="e149" source="g__ Ubiquinol oxidase (electrogenic, non H(+)-transporting)_t0" target="g__ Ubiquinol oxidase (electrogenic, non H(+)-transporting)_tn">
+<data key="key_weight">0.941395</data>
+</edge>
+<edge id="e150" source="g__ Aspartate ammonia-lyase_t0" target="g__ Ubiquinol oxidase (electrogenic, non H(+)-transporting)_tn">
+<data key="key_weight">-0.020419</data>
+</edge>
+<edge id="e151" source="g__ Peroxiredoxin_tn" target="g__ Ubiquinol oxidase (electrogenic, non H(+)-transporting)_tn">
+<data key="key_weight">0.021050</data>
+</edge>
+<edge id="e152" source="g__ Methionyl aminopeptidase_t0" target="g__ Methionyl aminopeptidase_tn">
+<data key="key_weight">1.009439</data>
+</edge>
+<edge id="e153" source="g__ Pyruvate carboxylase_t0" target="g__ Methionyl aminopeptidase_tn">
+<data key="key_weight">0.336580</data>
+</edge>
+<edge id="e154" source="g__ Pyruvate carboxylase_tn" target="g__ Methionyl aminopeptidase_tn">
+<data key="key_weight">-0.390670</data>
+</edge>
+<edge id="e155" source="g__ Thymidylate synthase_t0" target="g__ Thymidylate synthase_tn">
+<data key="key_weight">0.915664</data>
+</edge>
+<edge id="e156" source="g__ Orotidine-5'-phosphate decarboxylase_t0" target="g__ Thymidylate synthase_tn">
+<data key="key_weight">-0.831499</data>
+</edge>
+<edge id="e157" source="g__ Orotidine-5'-phosphate decarboxylase_tn" target="g__ Thymidylate synthase_tn">
+<data key="key_weight">0.911674</data>
+</edge>
+<edge id="e158" source="g__ Serine O-acetyltransferase_t0" target="g__ Serine O-acetyltransferase_tn">
+<data key="key_weight">0.864726</data>
+</edge>
+<edge id="e159" source="g__ S-ribosylhomocysteine lyase_t0" target="g__ Serine O-acetyltransferase_tn">
+<data key="key_weight">2.921761</data>
+</edge>
+<edge id="e160" source="g__ S-ribosylhomocysteine lyase_tn" target="g__ Serine O-acetyltransferase_tn">
+<data key="key_weight">-2.991485</data>
+</edge>
+<edge id="e161" source="g__ 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase_t0" target="g__ 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">0.964206</data>
+</edge>
+<edge id="e162" source="g__ Orotidine-5'-phosphate decarboxylase_t0" target="g__ 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.902489</data>
+</edge>
+<edge id="e163" source="g__ Orotidine-5'-phosphate decarboxylase_tn" target="g__ 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">0.951370</data>
+</edge>
+<edge id="e164" source="g__ DNA-directed RNA polymerase_t0" target="g__ Orotidine-5'-phosphate decarboxylase_tn">
+<data key="key_weight">-0.027192</data>
+</edge>
+<edge id="e165" source="g__ Orotidine-5'-phosphate decarboxylase_t0" target="g__ Orotidine-5'-phosphate decarboxylase_tn">
+<data key="key_weight">0.912186</data>
+</edge>
+<edge id="e166" source="g__ DNA-directed RNA polymerase_tn" target="g__ Orotidine-5'-phosphate decarboxylase_tn">
+<data key="key_weight">0.036759</data>
+</edge>
+<edge id="e167" source="g__ Orotidine-5'-phosphate decarboxylase_t0" target="g__ S-ribosylhomocysteine lyase_tn">
+<data key="key_weight">-0.460134</data>
+</edge>
+<edge id="e168" source="g__ S-ribosylhomocysteine lyase_t0" target="g__ S-ribosylhomocysteine lyase_tn">
+<data key="key_weight">0.865233</data>
+</edge>
+<edge id="e169" source="g__ Orotidine-5'-phosphate decarboxylase_tn" target="g__ S-ribosylhomocysteine lyase_tn">
+<data key="key_weight">0.569945</data>
+</edge>
+<edge id="e170" source="g__ 3-hydroxybutyryl-CoA dehydrogenase_t0" target="g__ Acetyl-CoA C-acetyltransferase_tn">
+<data key="key_weight">-0.981302</data>
+</edge>
+<edge id="e171" source="g__ Acetyl-CoA C-acetyltransferase_t0" target="g__ Acetyl-CoA C-acetyltransferase_tn">
+<data key="key_weight">0.903422</data>
+</edge>
+<edge id="e172" source="g__ 3-hydroxybutyryl-CoA dehydrogenase_tn" target="g__ Acetyl-CoA C-acetyltransferase_tn">
+<data key="key_weight">1.086430</data>
+</edge>
+<edge id="e173" source="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_t0" target="g__ Fe(3+)-transporting ATPase_tn">
+<data key="key_weight">-0.029224</data>
+</edge>
+<edge id="e174" source="g__ Fe(3+)-transporting ATPase_t0" target="g__ Fe(3+)-transporting ATPase_tn">
+<data key="key_weight">0.352955</data>
+</edge>
+<edge id="e175" source="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_tn" target="g__ Fe(3+)-transporting ATPase_tn">
+<data key="key_weight">0.062441</data>
+</edge>
+<edge id="e176" source="g__ Dephospho-CoA kinase_t0" target="g__ Pyruvate carboxylase_tn">
+<data key="key_weight">-0.645487</data>
+</edge>
+<edge id="e177" source="g__ Pyruvate carboxylase_t0" target="g__ Pyruvate carboxylase_tn">
+<data key="key_weight">0.979815</data>
+</edge>
+<edge id="e178" source="g__ Dephospho-CoA kinase_tn" target="g__ Pyruvate carboxylase_tn">
+<data key="key_weight">0.616340</data>
+</edge>
+<edge id="e179" source="g__ 5-formyltetrahydrofolate cyclo-ligase_t0" target="g__ Pyridoxine 5'-phosphate synthase_tn">
+<data key="key_weight">-0.146219</data>
+</edge>
+<edge id="e180" source="g__ Pyridoxine 5'-phosphate synthase_t0" target="g__ Pyridoxine 5'-phosphate synthase_tn">
+<data key="key_weight">0.943666</data>
+</edge>
+<edge id="e181" source="g__ 5-formyltetrahydrofolate cyclo-ligase_tn" target="g__ Pyridoxine 5'-phosphate synthase_tn">
+<data key="key_weight">0.143882</data>
+</edge>
+<edge id="e182" source="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_t0" target="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_tn">
+<data key="key_weight">0.967483</data>
+</edge>
+<edge id="e183" source="g__ Peroxiredoxin_tn" target="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_tn">
+<data key="key_weight">0.115727</data>
+</edge>
+<edge id="e184" source="g__ Enoyl-CoA hydratase_tn" target="g__ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)_tn">
+<data key="key_weight">-0.136848</data>
+</edge>
+<edge id="e185" source="g__ NADH_t0" target="g__ Enoyl-CoA hydratase_tn">
+<data key="key_weight">-0.497044</data>
+</edge>
+<edge id="e186" source="g__ Enoyl-CoA hydratase_t0" target="g__ Enoyl-CoA hydratase_tn">
+<data key="key_weight">0.917506</data>
+</edge>
+<edge id="e187" source="g__ NADH_tn" target="g__ Enoyl-CoA hydratase_tn">
+<data key="key_weight">0.643265</data>
+</edge>
+<edge id="e188" source="g__ 3-hydroxyacyl-CoA dehydrogenase_t0" target="g__ 3-hydroxyacyl-CoA dehydrogenase_tn">
+<data key="key_weight">0.885202</data>
+</edge>
+<edge id="e189" source="g__ 3-hydroxybutyryl-CoA dehydratase_t0" target="g__ 3-hydroxyacyl-CoA dehydrogenase_tn">
+<data key="key_weight">-0.376838</data>
+</edge>
+<edge id="e190" source="g__ 3-hydroxybutyryl-CoA dehydratase_tn" target="g__ 3-hydroxyacyl-CoA dehydrogenase_tn">
+<data key="key_weight">0.455010</data>
+</edge>
+<edge id="e191" source="g__ 3-hydroxybutyryl-CoA dehydratase_t0" target="g__ 3-hydroxybutyryl-CoA dehydratase_tn">
+<data key="key_weight">0.940399</data>
+</edge>
+<edge id="e192" source="g__ 5-formyltetrahydrofolate cyclo-ligase_tn" target="g__ 3-hydroxybutyryl-CoA dehydratase_tn">
+<data key="key_weight">0.087764</data>
+</edge>
+<edge id="e193" source="g__ Protein-N(pi)-phosphohistidine--sugar phosphotransferase_tn" target="g__ 3-hydroxybutyryl-CoA dehydratase_tn">
+<data key="key_weight">0.023761</data>
+</edge>
+<edge id="e194" source="g__ Phosphopyruvate hydratase_t0" target="g__ Dihydroorotate dehydrogenase (quinone)_tn">
+<data key="key_weight">0.016415</data>
+</edge>
+<edge id="e195" source="g__ Dihydroorotate dehydrogenase (quinone)_t0" target="g__ Dihydroorotate dehydrogenase (quinone)_tn">
+<data key="key_weight">0.900180</data>
+</edge>
+<edge id="e196" source="g__ Phosphopyruvate hydratase_tn" target="g__ Dihydroorotate dehydrogenase (quinone)_tn">
+<data key="key_weight">-0.014402</data>
+</edge>
+<edge id="e197" source="g__ Glutamate dehydrogenase_t0" target="g__ Ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">-0.095828</data>
+</edge>
+<edge id="e198" source="g__ Ribulose-phosphate 3-epimerase_t0" target="g__ Ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">1.014629</data>
+</edge>
+<edge id="e199" source="g__ Glutamate dehydrogenase_tn" target="g__ Ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.108103</data>
+</edge>
+<edge id="e200" source="g__ Adenosylmethionine--8-amino-7-oxononanoate transaminase_t0" target="g__ Adenosylmethionine--8-amino-7-oxononanoate transaminase_tn">
+<data key="key_weight">1.002995</data>
+</edge>
+<edge id="e201" source="g__ Ribulose-bisphosphate carboxylase_t0" target="g__ Adenosylmethionine--8-amino-7-oxononanoate transaminase_tn">
+<data key="key_weight">-0.107600</data>
+</edge>
+<edge id="e202" source="g__ Ribulose-bisphosphate carboxylase_tn" target="g__ Adenosylmethionine--8-amino-7-oxononanoate transaminase_tn">
+<data key="key_weight">0.106608</data>
+</edge>
+<edge id="e203" source="g__ Histidine kinase_t0" target="g__ Histidine kinase_tn">
+<data key="key_weight">0.941886</data>
+</edge>
+<edge id="e204" source="g__ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase_tn" target="g__ Histidine kinase_tn">
+<data key="key_weight">0.063851</data>
+</edge>
+<edge id="e205" source="g__ L-serine ammonia-lyase_tn" target="g__ Histidine kinase_tn">
+<data key="key_weight">0.058669</data>
+</edge>
+<edge id="e206" source="g__ Phosphoglycerate kinase_t0" target="g__ Phosphoglycerate kinase_tn">
+<data key="key_weight">0.950445</data>
+</edge>
+<edge id="e207" source="g__ 5-formyltetrahydrofolate cyclo-ligase_tn" target="g__ Phosphoglycerate kinase_tn">
+<data key="key_weight">-0.059709</data>
+</edge>
+<edge id="e208" source="g__ PreQ(1) synthase_tn" target="g__ Phosphoglycerate kinase_tn">
+<data key="key_weight">-0.103347</data>
+</edge>
+<edge id="e209" source="g__ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase_t0" target="g__ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase_tn">
+<data key="key_weight">0.926374</data>
+</edge>
+<edge id="e210" source="g__ Transaldolase_tn" target="g__ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase_tn">
+<data key="key_weight">-0.011066</data>
+</edge>
+<edge id="e211" source="g__ Peroxiredoxin_tn" target="g__ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase_tn">
+<data key="key_weight">-0.018621</data>
+</edge>
+<edge id="e212" source="g__ L-lactate dehydrogenase_t0" target="g__ L-lactate dehydrogenase_tn">
+<data key="key_weight">0.869796</data>
+</edge>
+<edge id="e213" source="g__ Ribulose-bisphosphate carboxylase_t0" target="g__ L-lactate dehydrogenase_tn">
+<data key="key_weight">0.092715</data>
+</edge>
+<edge id="e214" source="g__ Aspartate ammonia-lyase_t0" target="g__ L-lactate dehydrogenase_tn">
+<data key="key_weight">0.041531</data>
+</edge>
+<edge id="e215" source="g__ Ribulose-bisphosphate carboxylase_t0" target="g__ Ribulose-bisphosphate carboxylase_tn">
+<data key="key_weight">0.414983</data>
+</edge>
+<edge id="e216" source="g__ L-lactate dehydrogenase_tn" target="g__ Ribulose-bisphosphate carboxylase_tn">
+<data key="key_weight">-0.139175</data>
+</edge>
+<edge id="e217" source="g__ Methylaspartate mutase_tn" target="g__ Ribulose-bisphosphate carboxylase_tn">
+<data key="key_weight">0.148231</data>
+</edge>
+<edge id="e218" source="g__ Ribulose-bisphosphate carboxylase_t0" target="g__ Fructose-bisphosphate aldolase_tn">
+<data key="key_weight">-0.718398</data>
+</edge>
+<edge id="e219" source="g__ Fructose-bisphosphate aldolase_t0" target="g__ Fructose-bisphosphate aldolase_tn">
+<data key="key_weight">0.979391</data>
+</edge>
+<edge id="e220" source="g__ Ribulose-bisphosphate carboxylase_tn" target="g__ Fructose-bisphosphate aldolase_tn">
+<data key="key_weight">0.736133</data>
+</edge>
+<edge id="e221" source="g__ Ribulose-bisphosphate carboxylase_t0" target="g__ 3-hydroxyacyl-[acyl-carrier-protein] dehydratase_tn">
+<data key="key_weight">-0.419092</data>
+</edge>
+<edge id="e222" source="g__ 3-hydroxyacyl-[acyl-carrier-protein] dehydratase_t0" target="g__ 3-hydroxyacyl-[acyl-carrier-protein] dehydratase_tn">
+<data key="key_weight">0.952013</data>
+</edge>
+<edge id="e223" source="g__ Ribulose-bisphosphate carboxylase_tn" target="g__ 3-hydroxyacyl-[acyl-carrier-protein] dehydratase_tn">
+<data key="key_weight">0.453735</data>
+</edge>
+<edge id="e224" source="g__ L-lactate dehydrogenase_t0" target="g__ L-serine ammonia-lyase_tn">
+<data key="key_weight">-0.116748</data>
+</edge>
+<edge id="e225" source="g__ L-serine ammonia-lyase_t0" target="g__ L-serine ammonia-lyase_tn">
+<data key="key_weight">0.947039</data>
+</edge>
+<edge id="e226" source="g__ Aspartate ammonia-lyase_t0" target="g__ L-serine ammonia-lyase_tn">
+<data key="key_weight">0.042749</data>
+</edge>
+<edge id="e227" source="g__ Aspartate ammonia-lyase_t0" target="g__ Aspartate ammonia-lyase_tn">
+<data key="key_weight">1.012250</data>
+</edge>
+<edge id="e228" source="g__ Methylaspartate mutase_t0" target="g__ Aspartate ammonia-lyase_tn">
+<data key="key_weight">-0.996583</data>
+</edge>
+<edge id="e229" source="g__ Methylaspartate mutase_tn" target="g__ Aspartate ammonia-lyase_tn">
+<data key="key_weight">1.106347</data>
+</edge>
+<edge id="e230" source="g__ 3-hydroxyacyl-[acyl-carrier-protein] dehydratase_t0" target="g__ Triose-phosphate isomerase_tn">
+<data key="key_weight">-0.130310</data>
+</edge>
+<edge id="e231" source="g__ Triose-phosphate isomerase_t0" target="g__ Triose-phosphate isomerase_tn">
+<data key="key_weight">0.930549</data>
+</edge>
+<edge id="e232" source="g__ L-lactate dehydrogenase_tn" target="g__ Triose-phosphate isomerase_tn">
+<data key="key_weight">-0.199192</data>
+</edge>
+<edge id="e233" source="g__ Ubiquinol oxidase (electrogenic, non H(+)-transporting)_t0" target="g__ Methylaspartate mutase_tn">
+<data key="key_weight">-0.972313</data>
+</edge>
+<edge id="e234" source="g__ Methylaspartate mutase_t0" target="g__ Methylaspartate mutase_tn">
+<data key="key_weight">0.956420</data>
+</edge>
+<edge id="e235" source="g__ Ubiquinol oxidase (electrogenic, non H(+)-transporting)_tn" target="g__ Methylaspartate mutase_tn">
+<data key="key_weight">1.133503</data>
+</edge>
+<edge id="e236" source="g__ NADH_t0" target="g__ Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)_tn">
+<data key="key_weight">-0.218560</data>
+</edge>
+<edge id="e237" source="g__ Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)_t0" target="g__ Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)_tn">
+<data key="key_weight">0.940151</data>
+</edge>
+<edge id="e238" source="g__ NADH_tn" target="g__ Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)_tn">
+<data key="key_weight">0.208620</data>
+</edge>
+<edge id="e239" source="m__NH4_C54:5 TAG_t0" target="m__NH4_C54:5 TAG_tn">
+<data key="key_weight">0.882468</data>
+</edge>
+<edge id="e240" source="m__NH4_C52:3 TAG_t0" target="m__NH4_C54:5 TAG_tn">
+<data key="key_weight">-1.476579</data>
+</edge>
+<edge id="e241" source="m__NH4_C52:3 TAG_tn" target="m__NH4_C54:5 TAG_tn">
+<data key="key_weight">1.722394</data>
+</edge>
+<edge id="e242" source="m__NH4_C54:4 TAG_t0" target="m__NH4_C54:4 TAG_tn">
+<data key="key_weight">0.891836</data>
+</edge>
+<edge id="e243" source="m__C54:3 TAG_t0" target="m__NH4_C54:4 TAG_tn">
+<data key="key_weight">-1.469892</data>
+</edge>
+<edge id="e244" source="m__C54:3 TAG_tn" target="m__NH4_C54:4 TAG_tn">
+<data key="key_weight">1.671769</data>
+</edge>
+<edge id="e245" source="m__NH4_C54:3 TAG_t0" target="m__NH4_C54:3 TAG_tn">
+<data key="key_weight">0.884166</data>
+</edge>
+<edge id="e246" source="m__C54:3 TAG_t0" target="m__NH4_C54:3 TAG_tn">
+<data key="key_weight">-1.508103</data>
+</edge>
+<edge id="e247" source="m__C54:3 TAG_tn" target="m__NH4_C54:3 TAG_tn">
+<data key="key_weight">1.753669</data>
+</edge>
+<edge id="e248" source="m__valine_t0" target="m__valine_tn">
+<data key="key_weight">0.902749</data>
+</edge>
+<edge id="e249" source="m__isoleucine_t0" target="m__valine_tn">
+<data key="key_weight">-0.654861</data>
+</edge>
+<edge id="e250" source="m__isoleucine_tn" target="m__valine_tn">
+<data key="key_weight">0.737098</data>
+</edge>
+<edge id="e251" source="m__isoleucine_t0" target="m__isoleucine_tn">
+<data key="key_weight">0.937704</data>
+</edge>
+<edge id="e252" source="m__oxalate_tn" target="m__isoleucine_tn">
+<data key="key_weight">-1.143168</data>
+</edge>
+<edge id="e253" source="m__NH4_C36:2 DAG_tn" target="m__isoleucine_tn">
+<data key="key_weight">-0.220842</data>
+</edge>
+<edge id="e254" source="m__spermidine_t0" target="m__spermidine_tn">
+<data key="key_weight">0.933265</data>
+</edge>
+<edge id="e255" source="m__2-deoxyadenosine_t0" target="m__spermidine_tn">
+<data key="key_weight">-0.427391</data>
+</edge>
+<edge id="e256" source="m__2-deoxyadenosine_tn" target="m__spermidine_tn">
+<data key="key_weight">0.505649</data>
+</edge>
+<edge id="e257" source="m__2-deoxyadenosine_t0" target="m__2-deoxyadenosine_tn">
+<data key="key_weight">0.858109</data>
+</edge>
+<edge id="e258" source="m__valine_tn" target="m__2-deoxyadenosine_tn">
+<data key="key_weight">-0.017456</data>
+</edge>
+<edge id="e259" source="m__alpha-linolenate_tn" target="m__2-deoxyadenosine_tn">
+<data key="key_weight">0.588717</data>
+</edge>
+<edge id="e260" source="m__valine_t0" target="m__methylimidazole acetic acid_tn">
+<data key="key_weight">0.708589</data>
+</edge>
+<edge id="e261" source="m__methylimidazole acetic acid_t0" target="m__methylimidazole acetic acid_tn">
+<data key="key_weight">0.897217</data>
+</edge>
+<edge id="e262" source="m__valine_tn" target="m__methylimidazole acetic acid_tn">
+<data key="key_weight">-0.827997</data>
+</edge>
+<edge id="e263" source="m__phytosphingosine_t0" target="m__phytosphingosine_tn">
+<data key="key_weight">0.979692</data>
+</edge>
+<edge id="e264" source="m__threosphingosine_t0" target="m__phytosphingosine_tn">
+<data key="key_weight">-3.805001</data>
+</edge>
+<edge id="e265" source="m__threosphingosine_tn" target="m__phytosphingosine_tn">
+<data key="key_weight">4.044679</data>
+</edge>
+<edge id="e266" source="m__linoleate_t0" target="m__linoleate_tn">
+<data key="key_weight">0.942430</data>
+</edge>
+<edge id="e267" source="m__deoxycholate_t0" target="m__linoleate_tn">
+<data key="key_weight">-0.670400</data>
+</edge>
+<edge id="e268" source="m__deoxycholate_tn" target="m__linoleate_tn">
+<data key="key_weight">0.717002</data>
+</edge>
+<edge id="e269" source="m__linoleate_t0" target="m__oleate_tn">
+<data key="key_weight">-0.781104</data>
+</edge>
+<edge id="e270" source="m__oleate_t0" target="m__oleate_tn">
+<data key="key_weight">0.950890</data>
+</edge>
+<edge id="e271" source="m__linoleate_tn" target="m__oleate_tn">
+<data key="key_weight">0.825877</data>
+</edge>
+<edge id="e272" source="m__cholate_t0" target="m__cholate_tn">
+<data key="key_weight">0.953678</data>
+</edge>
+<edge id="e273" source="m__aminoisobutyric acid/GABA_t0" target="m__cholate_tn">
+<data key="key_weight">-0.153926</data>
+</edge>
+<edge id="e274" source="m__aminoisobutyric acid/GABA_tn" target="m__cholate_tn">
+<data key="key_weight">0.175699</data>
+</edge>
+<edge id="e275" source="m__NH4_C36:4 DAG_t0" target="m__NH4_C36:4 DAG_tn">
+<data key="key_weight">0.898466</data>
+</edge>
+<edge id="e276" source="m__NH4_C34:2 DAG_t0" target="m__NH4_C36:4 DAG_tn">
+<data key="key_weight">-1.779976</data>
+</edge>
+<edge id="e277" source="m__NH4_C34:2 DAG_tn" target="m__NH4_C36:4 DAG_tn">
+<data key="key_weight">2.119004</data>
+</edge>
+<edge id="e278" source="m__oxalate_t0" target="m__oxalate_tn">
+<data key="key_weight">0.975109</data>
+</edge>
+<edge id="e279" source="m__oleanate_t0" target="m__oxalate_tn">
+<data key="key_weight">-0.319975</data>
+</edge>
+<edge id="e280" source="m__oleanate_tn" target="m__oxalate_tn">
+<data key="key_weight">0.416586</data>
+</edge>
+<edge id="e281" source="m__urate_t0" target="m__urate_tn">
+<data key="key_weight">0.966068</data>
+</edge>
+<edge id="e282" source="m__glycochenodeoxycholate_t0" target="m__urate_tn">
+<data key="key_weight">-1.441652</data>
+</edge>
+<edge id="e283" source="m__glycochenodeoxycholate_tn" target="m__urate_tn">
+<data key="key_weight">1.604588</data>
+</edge>
+<edge id="e284" source="m__valine_t0" target="m__aminoisobutyric acid/GABA_tn">
+<data key="key_weight">-0.008458</data>
+</edge>
+<edge id="e285" source="m__aminoisobutyric acid/GABA_t0" target="m__aminoisobutyric acid/GABA_tn">
+<data key="key_weight">0.892314</data>
+</edge>
+<edge id="e286" source="m__valine_tn" target="m__aminoisobutyric acid/GABA_tn">
+<data key="key_weight">0.011396</data>
+</edge>
+<edge id="e287" source="m__butyrobetaine_t0" target="m__butyrobetaine_tn">
+<data key="key_weight">0.900573</data>
+</edge>
+<edge id="e288" source="m__alpha-linolenate_t0" target="m__butyrobetaine_tn">
+<data key="key_weight">-0.090163</data>
+</edge>
+<edge id="e289" source="m__phenyllactate_tn" target="m__butyrobetaine_tn">
+<data key="key_weight">0.378331</data>
+</edge>
+<edge id="e290" source="m__NH4_C54:5 TAG_t0" target="m__NH4_C54:6 TAG_tn">
+<data key="key_weight">-0.733322</data>
+</edge>
+<edge id="e291" source="m__NH4_C54:6 TAG_t0" target="m__NH4_C54:6 TAG_tn">
+<data key="key_weight">0.913458</data>
+</edge>
+<edge id="e292" source="m__NH4_C54:5 TAG_tn" target="m__NH4_C54:6 TAG_tn">
+<data key="key_weight">0.813585</data>
+</edge>
+<edge id="e293" source="m__citrulline_t0" target="m__citrulline_tn">
+<data key="key_weight">0.957740</data>
+</edge>
+<edge id="e294" source="m__C16:0 LPC_t0" target="m__citrulline_tn">
+<data key="key_weight">-0.705019</data>
+</edge>
+<edge id="e295" source="m__C16:0 LPC_tn" target="m__citrulline_tn">
+<data key="key_weight">0.830626</data>
+</edge>
+<edge id="e296" source="m__arachidonate_t0" target="m__arachidonate_tn">
+<data key="key_weight">0.986486</data>
+</edge>
+<edge id="e297" source="m__C18:0 LPC_t0" target="m__arachidonate_tn">
+<data key="key_weight">-1.552222</data>
+</edge>
+<edge id="e298" source="m__C18:0 LPC_tn" target="m__arachidonate_tn">
+<data key="key_weight">1.622212</data>
+</edge>
+<edge id="e299" source="m__NH4_C36:3 DAG_t0" target="m__NH4_C36:3 DAG_tn">
+<data key="key_weight">0.911321</data>
+</edge>
+<edge id="e300" source="m__NH4_C34:2 DAG_t0" target="m__NH4_C36:3 DAG_tn">
+<data key="key_weight">-2.896529</data>
+</edge>
+<edge id="e301" source="m__NH4_C34:2 DAG_tn" target="m__NH4_C36:3 DAG_tn">
+<data key="key_weight">3.292124</data>
+</edge>
+<edge id="e302" source="m__NH4_C54:4 TAG_t0" target="m__NH4_C52:3 TAG_tn">
+<data key="key_weight">-0.527913</data>
+</edge>
+<edge id="e303" source="m__NH4_C52:3 TAG_t0" target="m__NH4_C52:3 TAG_tn">
+<data key="key_weight">0.974420</data>
+</edge>
+<edge id="e304" source="m__NH4_C54:4 TAG_tn" target="m__NH4_C52:3 TAG_tn">
+<data key="key_weight">0.539554</data>
+</edge>
+<edge id="e305" source="m__NH4_C54:4 TAG_t0" target="m__NH4_C52:2 TAG_tn">
+<data key="key_weight">-0.352484</data>
+</edge>
+<edge id="e306" source="m__NH4_C52:2 TAG_t0" target="m__NH4_C52:2 TAG_tn">
+<data key="key_weight">0.892113</data>
+</edge>
+<edge id="e307" source="m__NH4_C54:4 TAG_tn" target="m__NH4_C52:2 TAG_tn">
+<data key="key_weight">0.381132</data>
+</edge>
+<edge id="e308" source="m__atenolol_t0" target="m__atenolol_tn">
+<data key="key_weight">0.469486</data>
+</edge>
+<edge id="e309" source="m__metformin_tn" target="m__atenolol_tn">
+<data key="key_weight">1.303261</data>
+</edge>
+<edge id="e310" source="m__alanylalanine_tn" target="m__atenolol_tn">
+<data key="key_weight">0.051873</data>
+</edge>
+<edge id="e311" source="m__pentadecanoate_t0" target="m__pentadecanoate_tn">
+<data key="key_weight">0.732710</data>
+</edge>
+<edge id="e312" source="m__alloisoleucine_t0" target="m__pentadecanoate_tn">
+<data key="key_weight">-1.151618</data>
+</edge>
+<edge id="e313" source="m__lithocholate_tn" target="m__pentadecanoate_tn">
+<data key="key_weight">0.678848</data>
+</edge>
+<edge id="e314" source="m__deoxycholate_t0" target="m__deoxycholate_tn">
+<data key="key_weight">0.949952</data>
+</edge>
+<edge id="e315" source="m__taurocholate_t0" target="m__deoxycholate_tn">
+<data key="key_weight">0.340491</data>
+</edge>
+<edge id="e316" source="m__taurocholate_tn" target="m__deoxycholate_tn">
+<data key="key_weight">-0.334288</data>
+</edge>
+<edge id="e317" source="m__NH4_C36:2 DAG_t0" target="m__NH4_C36:2 DAG_tn">
+<data key="key_weight">0.956417</data>
+</edge>
+<edge id="e318" source="m__NH4_C34:1 DAG_t0" target="m__NH4_C36:2 DAG_tn">
+<data key="key_weight">-3.873708</data>
+</edge>
+<edge id="e319" source="m__NH4_C34:1 DAG_tn" target="m__NH4_C36:2 DAG_tn">
+<data key="key_weight">4.167275</data>
+</edge>
+<edge id="e320" source="m__valine_t0" target="m__metformin_tn">
+<data key="key_weight">0.000395</data>
+</edge>
+<edge id="e321" source="m__aminoisobutyric acid/GABA_t0" target="m__metformin_tn">
+<data key="key_weight">-0.033663</data>
+</edge>
+<edge id="e322" source="m__metformin_t0" target="m__metformin_tn">
+<data key="key_weight">2.240398</data>
+</edge>
+<edge id="e323" source="m__deoxycholate_t0" target="m__lithocholate_tn">
+<data key="key_weight">-0.245328</data>
+</edge>
+<edge id="e324" source="m__lithocholate_t0" target="m__lithocholate_tn">
+<data key="key_weight">0.791205</data>
+</edge>
+<edge id="e325" source="m__deoxycholate_tn" target="m__lithocholate_tn">
+<data key="key_weight">0.312215</data>
+</edge>
+<edge id="e326" source="m__butyrobetaine_t0" target="m__sphingosine-isomer2_tn">
+<data key="key_weight">-0.112253</data>
+</edge>
+<edge id="e327" source="m__sphingosine-isomer2_t0" target="m__sphingosine-isomer2_tn">
+<data key="key_weight">0.950067</data>
+</edge>
+<edge id="e328" source="m__butyrobetaine_tn" target="m__sphingosine-isomer2_tn">
+<data key="key_weight">0.142931</data>
+</edge>
+<edge id="e329" source="m__alanylalanine_t0" target="m__alanylalanine_tn">
+<data key="key_weight">0.934371</data>
+</edge>
+<edge id="e330" source="m__adenosine_t0" target="m__alanylalanine_tn">
+<data key="key_weight">-0.522909</data>
+</edge>
+<edge id="e331" source="m__adenosine_tn" target="m__alanylalanine_tn">
+<data key="key_weight">0.609816</data>
+</edge>
+<edge id="e332" source="m__taurocholate_t0" target="m__taurocholate_tn">
+<data key="key_weight">1.141861</data>
+</edge>
+<edge id="e333" source="m__glycochenodeoxycholate_t0" target="m__taurocholate_tn">
+<data key="key_weight">-0.120066</data>
+</edge>
+<edge id="e334" source="m__alpha-linolenate_t0" target="m__taurocholate_tn">
+<data key="key_weight">-0.085534</data>
+</edge>
+<edge id="e335" source="m__NH4_C54:6 TAG_t0" target="m__NH4_C52:4 TAG_tn">
+<data key="key_weight">-0.465773</data>
+</edge>
+<edge id="e336" source="m__NH4_C52:4 TAG_t0" target="m__NH4_C52:4 TAG_tn">
+<data key="key_weight">0.923465</data>
+</edge>
+<edge id="e337" source="m__NH4_C54:6 TAG_tn" target="m__NH4_C52:4 TAG_tn">
+<data key="key_weight">0.516989</data>
+</edge>
+<edge id="e338" source="m__C16:0 LPC_t0" target="m__C16:0 LPC_tn">
+<data key="key_weight">0.982414</data>
+</edge>
+<edge id="e339" source="m__C18:0 LPC_t0" target="m__C16:0 LPC_tn">
+<data key="key_weight">-1.548327</data>
+</edge>
+<edge id="e340" source="m__C18:0 LPC_tn" target="m__C16:0 LPC_tn">
+<data key="key_weight">1.597463</data>
+</edge>
+<edge id="e341" source="m__C18:0 LPC_t0" target="m__C18:0 LPC_tn">
+<data key="key_weight">1.019594</data>
+</edge>
+<edge id="e342" source="m__NH4_C54:6 TAG_tn" target="m__C18:0 LPC_tn">
+<data key="key_weight">-0.009392</data>
+</edge>
+<edge id="e343" source="m__glycochenodeoxycholate_tn" target="m__C18:0 LPC_tn">
+<data key="key_weight">0.014189</data>
+</edge>
+<edge id="e344" source="m__butyrobetaine_t0" target="m__phenyllactate_tn">
+<data key="key_weight">-0.003191</data>
+</edge>
+<edge id="e345" source="m__phenyllactate_t0" target="m__phenyllactate_tn">
+<data key="key_weight">0.976267</data>
+</edge>
+<edge id="e346" source="m__deoxycholate_tn" target="m__phenyllactate_tn">
+<data key="key_weight">0.004807</data>
+</edge>
+<edge id="e347" source="m__alanylalanine_t0" target="m__C54:3 TAG_tn">
+<data key="key_weight">-0.021755</data>
+</edge>
+<edge id="e348" source="m__C54:3 TAG_t0" target="m__C54:3 TAG_tn">
+<data key="key_weight">0.956625</data>
+</edge>
+<edge id="e349" source="m__metformin_tn" target="m__C54:3 TAG_tn">
+<data key="key_weight">0.047748</data>
+</edge>
+<edge id="e350" source="m__oleate_t0" target="m__palmitate_tn">
+<data key="key_weight">-0.164295</data>
+</edge>
+<edge id="e351" source="m__palmitate_t0" target="m__palmitate_tn">
+<data key="key_weight">0.704638</data>
+</edge>
+<edge id="e352" source="m__oleate_tn" target="m__palmitate_tn">
+<data key="key_weight">0.221693</data>
+</edge>
+<edge id="e353" source="m__taurocholate_t0" target="m__taurochenodeoxycholate_tn">
+<data key="key_weight">-0.511666</data>
+</edge>
+<edge id="e354" source="m__taurochenodeoxycholate_t0" target="m__taurochenodeoxycholate_tn">
+<data key="key_weight">1.049299</data>
+</edge>
+<edge id="e355" source="m__taurocholate_tn" target="m__taurochenodeoxycholate_tn">
+<data key="key_weight">0.479064</data>
+</edge>
+<edge id="e356" source="m__taurochenodeoxycholate_t0" target="m__glycochenodeoxycholate_tn">
+<data key="key_weight">-0.830444</data>
+</edge>
+<edge id="e357" source="m__glycochenodeoxycholate_t0" target="m__glycochenodeoxycholate_tn">
+<data key="key_weight">0.994971</data>
+</edge>
+<edge id="e358" source="m__taurochenodeoxycholate_tn" target="m__glycochenodeoxycholate_tn">
+<data key="key_weight">0.793246</data>
+</edge>
+<edge id="e359" source="m__glycochenodeoxycholate_t0" target="m__glycocholate_tn">
+<data key="key_weight">-1.183963</data>
+</edge>
+<edge id="e360" source="m__glycocholate_t0" target="m__glycocholate_tn">
+<data key="key_weight">1.019173</data>
+</edge>
+<edge id="e361" source="m__glycochenodeoxycholate_tn" target="m__glycocholate_tn">
+<data key="key_weight">1.146830</data>
+</edge>
+<edge id="e362" source="m__pentadecanoate_t0" target="m__alloisoleucine_tn">
+<data key="key_weight">-0.071812</data>
+</edge>
+<edge id="e363" source="m__alloisoleucine_t0" target="m__alloisoleucine_tn">
+<data key="key_weight">0.917279</data>
+</edge>
+<edge id="e364" source="m__pentadecanoate_tn" target="m__alloisoleucine_tn">
+<data key="key_weight">0.069209</data>
+</edge>
+<edge id="e365" source="m__threosphingosine_t0" target="m__threosphingosine_tn">
+<data key="key_weight">0.962821</data>
+</edge>
+<edge id="e366" source="m__sphinganine_t0" target="m__threosphingosine_tn">
+<data key="key_weight">-0.618501</data>
+</edge>
+<edge id="e367" source="m__sphinganine_tn" target="m__threosphingosine_tn">
+<data key="key_weight">0.662293</data>
+</edge>
+<edge id="e368" source="m__NH4_C36:3 DAG_t0" target="m__NH4_C34:2 DAG_tn">
+<data key="key_weight">-0.065604</data>
+</edge>
+<edge id="e369" source="m__NH4_C34:2 DAG_t0" target="m__NH4_C34:2 DAG_tn">
+<data key="key_weight">1.071880</data>
+</edge>
+<edge id="e370" source="m__C36:3 DAG_tn" target="m__NH4_C34:2 DAG_tn">
+<data key="key_weight">0.129592</data>
+</edge>
+<edge id="e371" source="m__NH4_C34:2 DAG_t0" target="m__NH4_C34:1 DAG_tn">
+<data key="key_weight">-0.637992</data>
+</edge>
+<edge id="e372" source="m__NH4_C34:1 DAG_t0" target="m__NH4_C34:1 DAG_tn">
+<data key="key_weight">0.941298</data>
+</edge>
+<edge id="e373" source="m__NH4_C34:2 DAG_tn" target="m__NH4_C34:1 DAG_tn">
+<data key="key_weight">0.668358</data>
+</edge>
+<edge id="e374" source="m__glycocholate_t0" target="m__alpha-linolenate_tn">
+<data key="key_weight">-0.123716</data>
+</edge>
+<edge id="e375" source="m__alpha-linolenate_t0" target="m__alpha-linolenate_tn">
+<data key="key_weight">0.904820</data>
+</edge>
+<edge id="e376" source="m__taurocholate_tn" target="m__alpha-linolenate_tn">
+<data key="key_weight">0.222930</data>
+</edge>
+<edge id="e377" source="m__citrulline_t0" target="m__dodecanoate_tn">
+<data key="key_weight">-0.044627</data>
+</edge>
+<edge id="e378" source="m__dodecanoate_t0" target="m__dodecanoate_tn">
+<data key="key_weight">1.010278</data>
+</edge>
+<edge id="e379" source="m__citrulline_tn" target="m__dodecanoate_tn">
+<data key="key_weight">0.052794</data>
+</edge>
+<edge id="e380" source="m__C36:3 DAG_t0" target="m__C36:3 DAG_tn">
+<data key="key_weight">0.958853</data>
+</edge>
+<edge id="e381" source="m__C54:4 TAG_t0" target="m__C36:3 DAG_tn">
+<data key="key_weight">-0.899008</data>
+</edge>
+<edge id="e382" source="m__C54:4 TAG_tn" target="m__C36:3 DAG_tn">
+<data key="key_weight">0.906628</data>
+</edge>
+<edge id="e383" source="m__NH4_C54:6 TAG_t0" target="m__sphinganine_tn">
+<data key="key_weight">0.018379</data>
+</edge>
+<edge id="e384" source="m__sphinganine_t0" target="m__sphinganine_tn">
+<data key="key_weight">0.976369</data>
+</edge>
+<edge id="e385" source="m__butyrobetaine_tn" target="m__sphinganine_tn">
+<data key="key_weight">0.012070</data>
+</edge>
+<edge id="e386" source="m__C54:5 TAG_t0" target="m__C54:5 TAG_tn">
+<data key="key_weight">0.948170</data>
+</edge>
+<edge id="e387" source="m__C54:4 TAG_t0" target="m__C54:5 TAG_tn">
+<data key="key_weight">-0.910110</data>
+</edge>
+<edge id="e388" source="m__C54:4 TAG_tn" target="m__C54:5 TAG_tn">
+<data key="key_weight">0.966044</data>
+</edge>
+<edge id="e389" source="m__C54:3 TAG_t0" target="m__C54:4 TAG_tn">
+<data key="key_weight">-0.935756</data>
+</edge>
+<edge id="e390" source="m__C54:4 TAG_t0" target="m__C54:4 TAG_tn">
+<data key="key_weight">0.996271</data>
+</edge>
+<edge id="e391" source="m__C54:3 TAG_tn" target="m__C54:4 TAG_tn">
+<data key="key_weight">0.944917</data>
+</edge>
+<edge id="e392" source="m__lithocholate_t0" target="m__oleanate_tn">
+<data key="key_weight">-0.050303</data>
+</edge>
+<edge id="e393" source="m__oleanate_t0" target="m__oleanate_tn">
+<data key="key_weight">0.921571</data>
+</edge>
+<edge id="e394" source="m__lithocholate_tn" target="m__oleanate_tn">
+<data key="key_weight">0.071252</data>
+</edge>
+<edge id="e395" source="m__C18:0 LPC_t0" target="m__adenosine_tn">
+<data key="key_weight">-0.948636</data>
+</edge>
+<edge id="e396" source="m__adenosine_t0" target="m__adenosine_tn">
+<data key="key_weight">0.951430</data>
+</edge>
+<edge id="e397" source="m__C18:0 LPC_tn" target="m__adenosine_tn">
+<data key="key_weight">0.998970</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+<key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+<graph id="heterogeneous_dataset_example_dbnIntra" edgedefault="directed">
+<node id="Week_sample_obtained_t0"/>
+<node id="s__Bacteroides_fragilis_t0"/>
+<node id="s__Bacteroides_ovatus_t0"/>
+<node id="s__Bacteroides_stercoris_t0"/>
+<node id="g__Glutamate_decarboxylase_t0"/>
+<node id="g__3-hydroxybutyryl-CoA_dehydrogenase_t0"/>
+<node id="g__Beta-lactamase_t0"/>
+<node id="g__RNA_helicase_t0"/>
+<node id="g__DNA helicase_t0"/>
+<node id="m__valine_t0"/>
+<node id="m__isoleucine_t0"/>
+<node id="m__oleanate_t0"/>
+<node id="m__adenosine_t0"/>
+<node id="Week_sample_obtained_tn"/>
+<node id="s__Bacteroides_fragilis_tn"/>
+<node id="s__Bacteroides_ovatus_tn"/>
+<node id="s__Bacteroides_stercoris_tn"/>
+<node id="g__Glutamate_decarboxylase_tn"/>
+<node id="g__3-hydroxybutyryl-CoA_dehydrogenase_tn"/>
+<node id="g__Beta-lactamase_tn"/>
+<node id="g__RNA_helicase_tn"/>
+<node id="g__DNA helicase_tn"/>
+<node id="m__valine_tn"/>
+<node id="m__isoleucine_tn"/>
+<node id="m__oleanate_tn"/>
+<node id="m__adenosine_tn"/>
+<node id="Gender_t0"/>
+<node id="Gender_tn"/>
+<edge id="e1" source="s__Bacteroides_fragilis_t0" target="s__Bacteroides_fragilis_tn">
+<data key="key_weight">0.774330</data>
+</edge>
+<edge id="e2" source="s__Bacteroides_ovatus_t0" target="s__Bacteroides_ovatus_tn">
+<data key="key_weight">0.873776</data>
+</edge>
+<edge id="e3" source="s__Bacteroides_stercoris_t0" target="s__Bacteroides_stercoris_tn">
+<data key="key_weight">0.908190</data>
+</edge>
+<edge id="e4" source="g__Glutamate_decarboxylase_t0" target="g__Glutamate_decarboxylase_tn">
+<data key="key_weight">0.943800</data>
+</edge>
+<edge id="e5" source="g__3-hydroxybutyryl-CoA_dehydrogenase_t0" target="g__3-hydroxybutyryl-CoA_dehydrogenase_tn">
+<data key="key_weight">0.950629</data>
+</edge>
+<edge id="e6" source="g__Beta-lactamase_t0" target="g__Beta-lactamase_tn">
+<data key="key_weight">0.965994</data>
+</edge>
+<edge id="e7" source="g__RNA_helicase_t0" target="g__RNA_helicase_tn">
+<data key="key_weight">0.946746</data>
+</edge>
+<edge id="e8" source="g__3-hydroxybutyryl-CoA_dehydrogenase_tn" target="g__RNA_helicase_tn">
+<data key="key_weight">0.347023</data>
+</edge>
+<edge id="e9" source="g__DNA helicase_t0" target="g__DNA helicase_tn">
+<data key="key_weight">0.536639</data>
+</edge>
+<edge id="e10" source="g__3-hydroxybutyryl-CoA_dehydrogenase_tn" target="g__DNA helicase_tn">
+<data key="key_weight">-0.135535</data>
+</edge>
+<edge id="e11" source="m__valine_t0" target="m__valine_tn">
+<data key="key_weight">0.893553</data>
+</edge>
+<edge id="e12" source="m__isoleucine_t0" target="m__valine_tn">
+<data key="key_weight">-0.681964</data>
+</edge>
+<edge id="e13" source="m__isoleucine_tn" target="m__valine_tn">
+<data key="key_weight">0.763135</data>
+</edge>
+<edge id="e14" source="m__isoleucine_t0" target="m__isoleucine_tn">
+<data key="key_weight">0.951011</data>
+</edge>
+<edge id="e15" source="m__oleanate_t0" target="m__oleanate_tn">
+<data key="key_weight">0.934516</data>
+</edge>
+<edge id="e16" source="m__adenosine_t0" target="m__adenosine_tn">
+<data key="key_weight">0.988355</data>
+</edge>
+</graph>
+</graphml>
